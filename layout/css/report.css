@@ -1,0 +1,155 @@
+html,
+body {
+  background: #525659;
+  height: auto;
+  font-family: sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+#invoice {
+  background: #fff;
+  height: inherit;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding-bottom: 100px;
+}
+#bigi {
+  background: #e0f1ff;
+  color: #212121;
+  /* margin-bottom: 20px; */
+  font-size: 28px;
+  font-weight: bold;
+
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#company {
+  border-bottom: 4px solid #cccccc;
+}
+#company td {
+  text-align: initial;
+}
+#company .right div {
+  width: 8.9rem;
+  margin-left: auto;
+  text-transform: capitalize;
+  padding-bottom: 5px;
+}
+#company .right div:nth-child(-n + 2) {
+  font-weight: bold;
+}
+td,
+th {
+  padding: 1rem 0;
+  text-align: center;
+}
+#company img {
+  max-width: 180px;
+  height: auto;
+}
+#billship {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+#company,
+#items {
+  width: 100%;
+}
+#items {
+  /* margin-top: 50px; */
+}
+#items th {
+  border-top: 2px solid #667eea;
+  border-bottom: 2px solid #667eea;
+  background: #64b6ff;
+  color: #fff;
+}
+#items td,
+#items th {
+  border: 1px solid #52565940;
+}
+#company td {
+  padding: 25px 30px;
+}
+.downPdf {
+  cursor: pointer;
+  padding: 10px 50px;
+  border-radius: 500px;
+}
+
+/* Print btn */
+.print-btn {
+  cursor: pointer;
+  padding: 10px 50px;
+  border-radius: 500px;
+  outline: none;
+}
+.main-btn {
+  background: linear-gradient(#667eea, #64b6ff);
+  color: #fff !important;
+  border: none;
+}
+.bottom-total {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #e0f1ff;
+  color: #212121;
+  /* background: #64b6ff2e; */
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+.bottom-total .ttl p:nth-child(1) {
+  padding-bottom: 10px;
+}
+.total {
+  border-top: 3px;
+  border-top: solid;
+  width: 100%;
+}
+.ttl {
+  font-weight: bold;
+
+  padding: 20px 30px;
+}
+/* hide url in bottom of the page and hide body background in print */
+@media print {
+  @page {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: #fff;
+  }
+  #invoice {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  table {
+    page-break-inside: auto;
+  }
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+  thead {
+    display: table-header-group;
+  }
+
+  #items td,
+  #items th {
+    border-color: #525659a1;
+  }
+  #company {
+    border-bottom: 4px solid #000000;
+  }
+}

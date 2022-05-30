@@ -1,0 +1,3576 @@
+# Azora web translation file.
+# Copyright (C) YEAR THE Azora'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Azora package.
+# Muhanned Noman <Muhanned.Noman@gmail.net>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Web-azora\n"
+"Report-Msgid-Bugs-To: https://github.com/BlackGemTech/Web-azora/issues\n"
+"POT-Creation-Date: 2020-01-07 10:14+0300\n"
+"PO-Revision-Date: 2020-01-07 12:08+0300\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Muhanned Noman\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
+
+#  <login.php>
+
+#: login.php:22
+msgid "missing_phone_number"
+msgstr "الرجاء إدخال رقم هاتفك."
+
+#: login.php:29
+msgid "missing_password"
+msgstr "من فضلك أدخل كلمة مرورك."
+
+#: login.php:69
+msgid "invalid_password"
+msgstr "كلمة المرور التي أدخلتها غير صالحة."
+
+#: login.php:74
+msgid "check_phone_or_password"
+msgstr "يرجى التحقق من الهاتف الخاص بك أو كلمة المرور مرة أخرى."
+
+#: login.php:77
+msgid "something_went_wrong"
+msgstr "عفواً! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+
+#: login.php:92
+msgid "login_header"
+msgstr "تسجيل الدخول"
+
+#: login.php:110
+msgid "phone_number"
+msgstr "رقم الهاتف"
+
+#: login.php:121
+msgid "password"
+msgstr "كلمة السر"
+
+#: login.php:131
+msgid "login_button"
+msgstr "دخول"
+
+#  </login.php>
+
+#  <header.php>
+#: header.php:37
+msgid "azora_system"
+msgstr "نظام آزورا"
+
+#: header.php:104
+msgid "user_settings"
+msgstr "الإعدادات"
+
+#: header.php:107
+msgid "user_profile"
+msgstr "الملف الشخصي"
+
+#: header.php:112
+msgid "user_logout"
+msgstr "تسجيل خروج"
+
+#: header.php:138
+msgid "menu_dashboard"
+msgstr "لوحة المتابعة"
+
+#: header.php:162
+msgid "menu_sales"
+msgstr "المبيعات"
+
+#: header.php:208
+msgid "menu_category"
+msgstr "الاصناف"
+
+#: header.php:220
+msgid "menu_purchase"
+msgstr "المشتريات"
+
+#: header.php:226
+msgid "menu_expense"
+msgstr "المصروفات"
+
+#: header.php:248
+msgid "menu_services"
+msgstr "الخدمات"
+
+#: header.php:180
+msgid "menu_inventory"
+msgstr "المخزون"
+
+#: header.php:186
+msgid "menu_transaction"
+msgstr "العمليات"
+
+#: header.php:197
+msgid "menu_people"
+msgstr "اشخاص"
+
+#: header.php:203
+msgid "menu_users"
+msgstr "المستخدمين"
+
+#: header.php:209
+msgid "menu_customers"
+msgstr "العملاء"
+
+#: header.php:215
+msgid "menu_suppliers"
+msgstr "الموردين"
+
+#: header.php:223
+msgid "menu_reports"
+msgstr "التقارير"
+
+#: header.php:234
+msgid "menu_settings"
+msgstr "الإعدادات"
+
+#: header.php:240
+msgid "menu_generel"
+msgstr "العامة"
+
+#: header.php:252
+msgid "menu_about"
+msgstr "حول"
+
+#: header.php:258
+msgid "menu_docs"
+msgstr "المستندات"
+
+#  </header.php>
+
+#  <profile.php>
+
+#: profile.php:51
+msgid "basic_information_header"
+msgstr "المعلومات الأساسية"
+
+#: profile.php:76
+msgid "admin"
+msgstr "المشرف"
+
+#: profile.php:85
+#: profile.php:137
+msgid "full_name"
+msgstr "الاسم الكامل"
+
+#: profile.php:96
+#: profile.php:168
+msgid "profile_phone_number"
+msgstr "رقم الهاتف"
+
+#: profile.php:99
+#: profile.php:88
+msgid "edit"
+msgstr "تعديل"
+
+#: profile.php:106
+msgid "profile_password"
+msgstr "كلمه السر"
+
+#: profile.php:109
+msgid "reset"
+msgstr "إعادة تعيين"
+
+#: profile.php:128
+msgid "edit_full_name"
+msgstr "تعديل الاسم الكامل"
+
+#: profile.php:142
+#: profile.php:175
+#: profile.php:215
+msgid "close"
+msgstr "إغلاق"
+
+#: profile.php:143
+#: profile.php:176
+#: profile.php:216
+msgid "save_changes"
+msgstr "حفظ التغييرات"
+
+#: profile.php:159
+msgid "edit_phone_number"
+msgstr "تعديل رقم الهاتف"
+
+#: profile.php:191
+msgid "edit_password"
+msgstr "تعديل كلمة المرور"
+
+#: profile.php:200
+msgid "current_password"
+msgstr "كلمة المرور الحالية"
+
+#: profile.php:355
+msgid "profile_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: profile.php:358
+msgid "profile_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: profile.php:358
+msgid "profile_change_image"
+msgstr "تغيير الصورة"
+
+#  </profile.php>
+
+#  <dashboard.php>
+
+#: dashboard.php:10
+msgid "total_sales"
+msgstr "إجمالي المبيعات"
+
+#: dashboard.php:11
+msgid "daily_sales"
+msgstr "المبيعات اليومية"
+
+#: dashboard.php:22
+msgid "monthly_sales"
+msgstr "المبيعات الشهرية"
+
+#: dashboard.php:33
+msgid "yearly_sales"
+msgstr "مبيعات سنوية"
+
+#: dashboard.php:47
+msgid "sales_vs_purchase"
+msgstr "المبيعات مقابل المشتريات"
+
+#: dashboard.php:50
+#: dashboard.php:275s
+msgid "daily"
+msgstr "يومي"
+
+#: dashboard.php:60
+msgid "stock_value"
+msgstr "قيمة المخزون"
+
+#: dashboard.php:71
+msgid "recent_bills"
+msgstr "المصروفات الأخيرة"
+
+#: dashboard.php:75
+msgid "dashboard_bills_no"
+msgstr "رقم الفاتورة"
+
+#: dashboard.php:76
+#: dashboard.php:112
+#: dashboard.php:156
+msgid "dashboard_total"
+msgstr "الإجمالي"
+
+#: dashboard.php:77
+#: dashboard.php:113
+msgid "dashboard_type"
+msgstr "النوع"
+
+#: dashboard.php:107
+msgid "dashboard_recent_transaction"
+msgstr "العمليات الأخيرة"
+
+#: dashboard.php:111
+msgid "dashboard_invoice_no"
+msgstr "رقم فاتورة المشتريات"
+
+#: dashboard.php:150
+msgid "dashboard_top_products_of_today"
+msgstr "أفضل المنتجات لهذا اليوم"
+
+#: dashboard.php:155
+msgid "dashboard_product"
+msgstr "المنتج"
+
+#: dashboard.php:157
+msgid "dashboard_availability"
+msgstr "التوفر"
+
+#: dashboard.php:187
+msgid "dashboard_out_of_stock"
+msgstr "غير متوفر"
+
+#: dashboard.php:189
+msgid "dashboard_in_stock"
+msgstr "في المخزون"
+
+#: dashboard.php:340
+msgid "dashboard_sales"
+msgstr "المبيعات"
+
+#: dashboard.php:340
+msgid "dashboard_purchase"
+msgstr "المشتريات"
+
+#: dashboard.php:275
+msgid "monthly"
+msgstr "شهري"
+
+#: dashboard.php:275
+msgid "yearly"
+msgstr "سنوي"
+
+#  </dashboard.php>
+
+#  <sales.php>
+
+#: sales.php:21
+msgid "Page_Title_sales"
+msgstr "المبيعات"
+
+#: sales.php:26
+msgid "sales_search_by_customer"
+msgstr "البحث عن طريق اسم العميل"
+
+#: sales.php:43
+msgid "sales_loading"
+msgstr "جار التحميل..."
+
+#: sales.php:79
+msgid "sales_invoice_no"
+msgstr "رقم فاتورة المشتريات"
+
+#: sales.php:80
+msgid "sales_date"
+msgstr "التاريخ"
+
+#: sales.php:81
+msgid "sales_total"
+msgstr "الإجمالي"
+
+#: sales.php:82
+msgid "sales_paid"
+msgstr "المدفوع"
+
+#: sales.php:83
+msgid "sales_customer"
+msgstr "العميل"
+
+#: sales.php:84
+msgid "sales_user"
+msgstr "المستخدم"
+
+#: sales.php:99
+msgid "sales_Type_Of_Transaction"
+msgstr "نوع العملية"
+
+#: sales.php:111
+msgid "sales_action"
+msgstr "إجراء"
+
+#: sales.php:114
+msgid "sales_view_details"
+msgstr "عرض التفاصيل"
+
+#: sales.php:115
+msgid "sales_delete"
+msgstr "حذف"
+
+#: sales.php:141
+msgid "sales_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: sales.php:145
+msgid "sales_cancel"
+msgstr "إلغاء"
+
+#: sales.php:130
+msgid "sale_transaction"
+msgstr "مبيعات"
+
+#: sales.php:130
+msgid "refund_transaction"
+msgstr "مرتجعات"
+
+#: sales.php:165
+msgid "sales_error"
+msgstr "خطأ..."
+
+#  </sales.php>
+
+#  <sale_bill.php>
+
+#: sale_bill.php:28
+msgid "sale_bill_sale"
+msgstr "المبيعات"
+
+#: sale_bill.php:29
+msgid "sale_bill_sale_details"
+msgstr "تفاصيل المبيعات"
+
+#: sale_bill.php:74
+msgid "sale_bill_invoice"
+msgstr "فاتورة المبيعات"
+
+#: sale_bill.php:78
+msgid "refund_bill_invoice"
+msgstr "فاتورة مرتجعات"
+
+#: sale_bill.php:42
+msgid "sale_bill_user_name"
+msgstr "اسم المستخدم:"
+
+#: sale_bill.php:44
+msgid "sale_bill_invoice_to"
+msgstr "فاتورة إلى:"
+
+#: sale_bill.php:50
+msgid "sale_bill_date"
+msgstr "التاريخ:"
+
+#: sale_bill.php:51
+msgid "sale_bill_status"
+msgstr "الحالة:"
+
+#: sale_bill.php:52
+msgid "sale_bill_bill_no"
+msgstr "رقم الفاتورة:"
+
+#: sale_bill.php:61
+msgid "sale_bill_product"
+msgstr "المنتج"
+
+#: sale_bill.php:63
+msgid "sale_bill_quantity"
+msgstr "الكمية"
+
+#: sale_bill.php:64
+msgid "sale_bill_price"
+msgstr "السعر"
+
+#: sale_bill.php:65
+msgid "sale_bill_total"
+msgstr "الإجمالي"
+
+#: sale_bill.php:66
+msgid "sale_bill_discount"
+msgstr "الخصم"
+
+#: sale_bill.php:115
+msgid "sale_bill_sub_total"
+msgstr "الصافي:"
+
+#: sale_bill.php:116
+msgid "sale_bill_total-discount"
+msgstr "الخصم:"
+
+#: sale_bill.php:117
+msgid "sale_bill_total-tax"
+msgstr "الضريبة:"
+
+#: sale_bill.php:142
+msgid "sale_bill_paid"
+msgstr "مدفوع"
+
+#: sale_bill.php:124
+msgid "sale_bill_partially_paid"
+msgstr "مدفوع جزئيا"
+
+#: sale_bill.php:133
+msgid "sale_bill_not_paid"
+msgstr "غير مدفوع"
+
+#: sale_bill.php:151
+msgid "sale_bill_print"
+msgstr "طباعة"
+
+#: sale_bill.php:152
+msgid "sale_bill_cancel"
+msgstr "إلغاء"
+
+#  </sale_bill.php>
+
+#  <inventory.php>
+
+#: inventory.php:10
+msgid "Page_Title_Inventory"
+msgstr "المخزون"
+
+#: inventory.php:27
+msgid "inventory_area_edit"
+msgstr "تعديل"
+
+#: inventory.php:28
+msgid "inventory_area_remove"
+msgstr "إزالة"
+
+#: inventory.php:40
+msgid "inventory_area_add"
+msgstr "أضف مستودع جديد"
+
+#: inventory.php:51
+msgid "inventory_area_add_to_inventory"
+msgstr "أضف مستودع جديد إلى المخزن"
+
+#: inventory.php:56
+msgid "inventory_area_add_name_of_area"
+msgstr "أسم المستودع"
+
+#: inventory.php:59
+msgid "inventory_area_add_location_of_area"
+msgstr "موقع المستودع"
+
+#: inventory.php:62
+msgid "inventory_area_add_capacity_of_area"
+msgstr "سعة المستودع"
+
+#: inventory.php:65
+msgid "inventory_area_add_size_of_area"
+msgstr "حجم المستودع"
+
+#: inventory.php:68
+msgid "inventory_area_add_type_of_area"
+msgstr "نوع المستودع"
+
+#: inventory.php:71
+msgid "inventory_area_add_Add"
+msgstr "إضافة"
+
+#: inventory.php:75
+#: inventory.php:89
+msgid "inventory_area_add_close"
+msgstr "أغلاق"
+
+#: inventory.php:71
+msgid "inventory_area_edit_area"
+msgstr "تعديل المستودع"
+
+#: inventory.php:110
+msgid "inventory_area_add_name_laert"
+msgstr "الاسم مطلوب"
+
+#: inventory.php:172
+msgid "inventory_area_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: inventory.php:176
+msgid "inventory_area_delete_alert_cancel"
+msgstr "إلغاء"
+
+#: inventory.php:183
+msgid "inventory_area_delete_alert_delete"
+msgstr "حذف"
+
+#: inventory.php:197
+msgid "inventory_area_delete_alert_error"
+msgstr "حدث خطأ ما..."
+
+#  </inventory.php>
+
+#  <warehouse_edit.php>
+
+#: warehouse_edit.php:27
+msgid "warehouse_edit_add_name_of_area"
+msgstr "أسم المستودع"
+
+#: warehouse_edit.php:31
+msgid "warehouse_edit_add_location_of_area"
+msgstr "موقع المستودع"
+
+#: warehouse_edit.php:35
+msgid "warehouse_edit_add_capacity_of_area"
+msgstr "سعة المستودع"
+
+#: warehouse_edit.php:39
+msgid "warehouse_edit_add_size_of_area"
+msgstr "حجم المستودع"
+
+#: warehouse_edit.php:43
+msgid "warehouse_edit_add_type_of_area"
+msgstr "نوع المستودع"
+
+#: warehouse_edit.php:48
+msgid "warehouse_edit_add_update"
+msgstr "تحديث"
+
+#: warehouse_edit.php:49
+msgid "warehouse_edit_add_close"
+msgstr "أغلاق"
+
+#  </warehouse_edit.php>
+
+#  <inventory_edit.php>
+
+#: inventory_edit.php:28
+msgid "inventory_edit_name"
+msgstr "الاسم :"
+
+#: inventory_edit.php:32
+msgid "inventory_edit_quantity"
+msgstr "كمية :"
+
+#: inventory_edit.php:36
+msgid "inventory_edit_change_area"
+msgstr "تغيير المستودع :"
+
+#: inventory_edit.php:51
+msgid "inventory_edit_expiry_date"
+msgstr "تاريخ الانتهاء :"
+
+#: inventory_edit.php:56
+msgid "inventory_edit_update"
+msgstr "تحديث"
+
+#: inventory_edit.php:57
+msgid "inventory_edit_close"
+msgstr "أغلاق"
+
+#  </inventory_edit.php>
+
+#  <inventory_fetch.php>
+
+#: inventory_fetch.php:16
+msgid "inventory_fetch_name"
+msgstr "الأسم"
+
+#: inventory_fetch.php:17
+msgid "inventory_fetch_category"
+msgstr "الصنف"
+
+#: inventory_fetch.php:18
+msgid "inventory_fetch_sub_category"
+msgstr "النصف الفرعي"
+
+#: inventory_fetch.php:19
+msgid "inventory_fetch_quantity"
+msgstr "الكمية"
+
+#: inventory_fetch.php:20
+msgid "inventory_fetch_total_cost"
+msgstr "التكلفة الإجمالية"
+
+#: inventory_fetch.php:21
+msgid "inventory_fetch_expiray_date"
+msgstr "تاريخ الانتهاء"
+
+#: inventory_fetch.php:22
+msgid "inventory_fetch_activation_status"
+msgstr "حالة التفعيل"
+
+#: inventory_fetch.php:25
+msgid "inventory_fetch_action"
+msgstr "العمليات"
+
+#: inventory_fetch.php:32
+msgid "inventory_fetch_show_ruined_and_expired"
+msgstr "عرض التالفة والمنتهية"
+
+#: inventory_fetch.php:33
+msgid "inventory_fetch_show_all_detalis"
+msgstr "عرض كافة التفاصيل"
+
+#: inventory_fetch.php:41
+msgid "inventory_fetch_nothing_here"
+msgstr "لا شيء هنا"
+
+#: inventory_fetch.php:41
+msgid "inventory_fetch_close"
+msgstr "إغلاق"
+
+#  </inventory_fetch.php>
+
+#  </transaction.php>
+
+#: transaction.php:22
+msgid "Page_Title_Transaction"
+msgstr "العمليات"
+
+#: transaction.php:26
+msgid "transaction_search_by_user_name"
+msgstr "البحث عن طريق اسم المستخدم"
+
+#: transaction.php:42
+msgid "transaction_loading"
+msgstr "جار التحميل..."
+
+#: transaction.php:85
+msgid "transaction_transaction_no"
+msgstr "رقم العملية"
+
+#: transaction.php:86
+msgid "transaction_date"
+msgstr "التاريخ"
+
+#: transaction.php:87
+msgid "transaction_user"
+msgstr "المستخدم"
+
+#: transaction.php:88
+msgid "transaction_total"
+msgstr "الإجمالي"
+
+#: transaction.php:89
+msgid "transaction_type"
+msgstr "النوع"
+
+#: transaction.php:118
+msgid "transaction_view_details"
+msgstr "عرض التفاصيل"
+
+#  </transaction.php>
+
+#  <support.php>
+
+#: support.php:11
+#: support.php:106
+msgid "support_phone_number"
+msgstr "رقم الهاتف"
+
+#: support.php:20
+msgid "support_email"
+msgstr "البريد الإلكتروني"
+
+#: support.php:30
+msgid "support_website"
+msgstr "الموقع الالكتروني"
+
+#: support.php:39
+#: support.php:80
+msgid "support_social_media"
+msgstr "وسائل التواصل الاجتماعي"
+
+#: support.php:49
+msgid "support_faq"
+msgstr "التعليمات"
+
+#: support.php:60
+msgid "support_azora_emails"
+msgstr "البريد الإلكتروني لأزورا"
+
+#: support.php:69
+#: support.php:95
+msgid "support_close"
+msgstr "إغلاق"
+
+#  </support.php>
+
+#  <about.php>
+
+#: about.php:14
+msgid "about_azora_system"
+msgstr "نظام آزورا"
+
+#: about.php:16
+msgid "about_description"
+msgstr "آزورا هو أول نظام نقاط بيع في اليمن يعمل بنظام أندرويد. لدى آزورا مميزات تلبي جميع احتياجاتك كصاحب متجر. حيث يساعدك على إدارة مخزون متجرك ، المبيعات ، النفقات وديون العملاء. بالإضافة إلى ذلك ، يقوم آزورا بتخزين بيانات متجرك في شبكة الإنترنت حتى تتمكن من الوصول إليها في أي وقت ومن أي مكان."
+
+#: about.php:18
+msgid "about_developed"
+msgstr "مطور من قبل : آزورا"
+
+#: about.php:42
+msgid "about_contact"
+msgstr "تواصل معنا"
+
+#: about.php:57
+msgid "about_follow"
+msgstr "تابعنا"
+
+#  </about.php>
+
+#  <general_settings.php>
+
+#: general_settings.php:61
+msgid "general_settings_enter_shop_name_error"
+msgstr "الرجاء إدخال اسم المحل."
+
+#: general_settings.php:65
+msgid "general_settings_enter_address_error"
+msgstr "من فضلك ادخل العنوان."
+
+#: general_settings.php:69
+msgid "general_settings_enter_phone_error"
+msgstr "يرجى إدخال الهاتف."
+
+#: general_settings.php:83
+msgid "general_settings_phone_already_taken"
+msgstr "هذا الهاتف مأخوذ بالفعل."
+
+#: general_settings.php:89
+msgid "general_settings_something_went_wrong_error"
+msgstr "عفواً! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+
+#: general_settings.php:104
+msgid "general_settings_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: general_settings.php:129
+msgid "general_settings_business_information"
+msgstr "معلومات الأعمال التجارية"
+
+#: general_settings.php:149
+msgid "general_settings_shop_name"
+msgstr "اسم المحل"
+
+#: general_settings.php:153
+msgid "general_settings_phone"
+msgstr "رقم الهاتف"
+
+#: general_settings.php:158
+msgid "general_settings_address"
+msgstr "العنوان"
+
+#: general_settings.php:164
+msgid "general_settings_save"
+msgstr "حفظ"
+
+#: general_settings.php:165
+msgid "general_settings_cancel"
+msgstr "إلغاء"
+
+#: general_settings.php:180
+msgid "general_settings_language"
+msgstr "اللغة"
+
+#: general_settings.php:169
+msgid "general_settings_choose"
+msgstr "اختار"
+
+#: general_settings.php:170
+msgid "general_settings_english"
+msgstr "الأنجليزية"
+
+#: general_settings.php:171
+msgid "general_settings_arabic"
+msgstr "العربية"
+
+#: general_settings.php:208
+msgid "general_settings_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: general_settings.php:208
+msgid "general_settings_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: general_settings.php:208
+msgid "general_settings_change_image"
+msgstr "تغيير الصورة"
+
+#  </general_settings.php>
+
+#  <reports.php>
+
+#: reports.php:9
+msgid "Page_Title_Reports"
+msgstr "التقارير"
+
+#: reports.php:12
+#: reports.php:75
+#: reports.php:84
+msgid "reports_product"
+msgstr "المنتجات"
+
+#: reports.php:81
+#: reports.php:92
+#: reports.php:98
+msgid "reports_service"
+msgstr "الخدمات"
+
+#: reports.php:19
+#: reports.php:130
+msgid "reports_purchase"
+msgstr "المشتريات"
+
+#: reports.php:26
+#: reports.php:170
+msgid "reports_sales"
+msgstr "المبيعات"
+
+#: reports.php:33
+#: reports.php:211
+msgid "reports_stock"
+msgstr "المخزون"
+
+#: reports.php:40
+#: reports.php:252
+#: reports.php:262
+msgid "reports_category"
+msgstr "الاصناف"
+
+#: reports.php:47
+#: reports.php:322
+#: reports.php:312
+msgid "reports_sub_category"
+msgstr "الاصناف الفرعية"
+
+#: reports.php:55
+#: reports.php:371
+msgid "reports_profit"
+msgstr "الأرباح"
+
+#: reports.php:62
+#: reports.php:409
+#: reports.php:419
+msgid "reports_supplier"
+msgstr "الموردون"
+
+#: reports.php:72
+msgid "cash_report"
+msgstr "النقدية"
+
+#: reports.php:698
+msgid "type_of_cash"
+msgstr "نوع التقرير"
+
+#: reports.php:762
+msgid "type_of_cash_detailed"
+msgstr "تقرير مفصل"
+
+#: reports.php:768
+msgid "type_of_cash_brief"
+msgstr "تقرير موجز"
+
+#: reports.php:130
+#: reports.php:194
+#: reports.php:259
+#: reports.php:338
+#: reports.php:445
+#: reports.php:674
+msgid "reports_choose_user"
+msgstr "المستخدم"
+
+#: reports.php:133
+#: reports.php:198
+#: reports.php:262
+#: reports.php:284
+#: reports.php:341
+#: reports.php:430
+#: reports.php:448
+#: reports.php:677
+#: reports.php:747
+msgid "reports_all_user"
+msgstr "الكل"
+
+
+#: reports.php:103
+#: reports.php:141
+#: reports.php:181
+#: reports.php:222
+#: reports.php:282
+#: reports.php:342
+#: reports.php:382
+#: reports.php:440
+msgid "reports_from"
+msgstr "من"
+
+#: reports.php:109
+#: reports.php:148
+#: reports.php:187
+#: reports.php:230
+#: reports.php:289
+#: reports.php:349
+#: reports.php:388
+#: reports.php:448
+msgid "reports_to"
+msgstr "إلى"
+
+#: reports.php:116
+#: reports.php:156
+#: reports.php:195
+#: reports.php:236
+#: reports.php:297
+#: reports.php:356
+#: reports.php:394
+#: reports.php:455
+msgid "reports_generate_report"
+msgstr "إنشاء التقرير"
+
+#: reports.php:117
+#: reports.php:157
+#: reports.php:196
+#: reports.php:237
+#: reports.php:298
+#: reports.php:357
+#: reports.php:395
+#: reports.php:456
+msgid "reports_close"
+msgstr "إغلاق"
+
+#: reports.php:69
+#: reports.php:477
+msgid "reports_debt"
+msgstr "العملاء"
+
+#  </reports.php>
+
+#  <supplier_edit.php>
+
+#: supplier_edit.php:20
+msgid "supplier_edit_suppliers"
+msgstr "الموردون"
+
+#: supplier_edit.php:21
+#: supplier_edit.php:84
+msgid "supplier_edit_edit_suppliers"
+msgstr "تحرير الموردين"
+
+#: supplier_edit.php:69
+msgid "supplier_edit_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما."
+
+#: supplier_edit.php:72
+msgid "supplier_edit_updated_successfully"
+msgstr "تم تحديث المورد بنجاح."
+
+#: supplier_edit.php:95
+msgid "supplier_edit_first_name"
+msgstr "الاسم الاول"
+
+#: supplier_edit.php:103
+msgid "supplier_edit_last_name"
+msgstr "الاسم الاخير"
+
+#: supplier_edit.php:111
+msgid "supplier_edit_company_name"
+msgstr "اسم الشركة"
+
+#: supplier_edit.php:120
+msgid "supplier_edit_email"
+msgstr "البريد الإلكتروني"
+
+#: supplier_edit.php:128
+msgid "supplier_edit_phone_number"
+msgstr "رقم الهاتف"
+
+#: supplier_edit.php:136
+msgid "supplier_edit_address"
+msgstr "العنوان"
+
+#: supplier_edit.php:155
+msgid "supplier_edit_save"
+msgstr "حفظ"
+
+#: supplier_edit.php:156
+msgid "supplier_edit_cancel"
+msgstr "إلغاء"
+
+#: supplier_edit.php:180
+msgid "supplier_edit_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: supplier_edit.php:183
+msgid "supplier_edit_update_image"
+msgstr "تحديث الصورة"
+
+#: supplier_edit.php:183
+msgid "supplier_edit_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#  </supplier_edit.php>
+
+#  <supplier_details.php>
+
+#: supplier_details.php:27
+msgid "supplier_details_suppliers"
+msgstr "الموردون"
+
+#: supplier_details.php:62
+msgid "supplier_details_purchase_history"
+msgstr "تاريخ المشتريات"
+
+#: supplier_details.php:32
+msgid "supplier_details_basic_information"
+msgstr "المعلومات الأساسية"
+
+
+#: supplier_details.php:45
+msgid "supplier_details_full_name"
+msgstr "الاسم الكامل :"
+
+#: supplier_details.php:46
+msgid "supplier_details_phone_number"
+msgstr "رقم الهاتف :"
+
+#: supplier_details.php:47
+msgid "supplier_details_address"
+msgstr "العنوان :"
+
+#: supplier_details.php:48
+msgid "supplier_details_company"
+msgstr "الشركة :"
+
+#: supplier_details.php:78
+msgid "supplier_details_Debt_information"
+msgstr "تفاصيل الديون "
+
+#  </supplier_details.php>
+
+#  <supplier_add.php>
+
+#: supplier_add.php:17
+msgid "supplier_add_please_enter_first_name"
+msgstr "الرجاء إدخال الاسم الأول."
+
+#: supplier_add.php:35
+#: supplier_add.php:64
+msgid "supplier_add_something_went_wrong_error"
+msgstr "عفواً! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+
+#: supplier_add.php:46
+msgid "supplier_add_please_enter_last_name"
+msgstr "الرجاء إدخال الاسم الأخير."
+
+#: supplier_add.php:109
+msgid "supplier_add_successfully_added"
+msgstr "تمت الإضافة بنجاح"
+
+#: supplier_add.php:111
+msgid "supplier_add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: supplier_add.php:127
+msgid "supplier_add_suppliers"
+msgstr "الموردون"
+
+#: supplier_add.php:128
+msgid "supplier_add_new_suppliers"
+msgstr "إضافة موردين جدد"
+
+#: supplier_add.php:142
+msgid "supplier_add_first_name"
+msgstr "الاسم الاول"
+
+#: supplier_add.php:150
+msgid "supplier_add_last_name"
+msgstr "الاسم الاخير"
+
+#: supplier_add.php:158
+msgid "supplier_add_company_name"
+msgstr "اسم الشركة"
+
+#: supplier_add.php:167
+msgid "supplier_add_email"
+msgstr "البريد الإلكتروني"
+
+#: supplier_add.php:175
+msgid "supplier_add_phone_number"
+msgstr "رقم الهاتف"
+
+#: supplier_add.php:183
+msgid "supplier_add_address"
+msgstr "العنوان"
+
+#: supplier_add.php:202
+msgid "supplier_add_save"
+msgstr "حفظ"
+
+#: supplier_add.php:203
+msgid "supplier_add_cancel"
+msgstr "إلغاء"
+
+#: supplier_add.php:225
+msgid "supplier_add_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: general_settings.php:228
+msgid "supplier_add_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: general_settings.php:228
+msgid "supplier_add_change_image"
+msgstr "تغيير الصورة"
+
+#  </supplier_add.php>
+
+#  <suppliers.php>
+
+#: suppliers.php:41
+msgid "suppliers_add_new_supplier"
+msgstr "إضافة مورد جديد"
+
+#: suppliers.php:47
+msgid "suppliers_loading"
+msgstr "جار التحميل..."
+
+#: suppliers.php:80
+msgid "suppliers_users"
+msgstr "الموردين"
+
+#: suppliers.php:81
+msgid "suppliers_role"
+msgstr "الوظيفة"
+
+#: suppliers.php:82
+#: suppliers.php:101
+msgid "suppliers_action"
+msgstr "إجراء"
+
+#: suppliers.php:98
+msgid "suppliers_admin"
+msgstr "مشرف"
+
+#: suppliers.php:104
+msgid "suppliers_view_details"
+msgstr "عرض التفاصيل"
+
+#: suppliers.php:105
+msgid "suppliers_edit"
+msgstr "تعديل"
+
+#: suppliers.php:106
+#: suppliers.php:139
+msgid "suppliers_delete"
+msgstr "حذف"
+
+#: suppliers.php:152
+msgid "suppliers_error"
+msgstr "خطأ..."
+
+#: sales.php:141
+msgid "suppliers_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: suppliers.php:132
+msgid "suppliers_cancel"
+msgstr "إلغاء"
+
+#  </suppliers.php>
+
+#  <customer_edit.php>
+
+#: customer_edit.php:20
+msgid "customer_edit_customers"
+msgstr "العملاء"
+
+#: customer_edit.php:21
+#: customer_edit.php:84
+msgid "customer_edit_customers_edit"
+msgstr "تحرير العملاء"
+
+#: customer_edit.php:69
+msgid "customer_edit_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: customer_edit.php:72
+msgid "customer_edit_updated_successfully"
+msgstr "تم تحديث العملاء بنجاح."
+
+#: customer_edit.php:95
+msgid "customer_edit_first_name"
+msgstr "الاسم الاول"
+
+#: customer_edit.php:103
+msgid "customer_edit_last_name"
+msgstr "الاسم الاخير"
+
+#: customer_edit.php:111
+msgid "customer_edit_company_name"
+msgstr "اسم الشركة"
+
+#: customer_edit.php:121
+msgid "customer_edit_email"
+msgstr "البريد الإلكتروني"
+
+#: customer_edit.php:128
+msgid "customer_edit_phone_number"
+msgstr "رقم الهاتف"
+
+#: customer_edit.php:136
+msgid "customer_edit_address"
+msgstr "العنوان"
+
+#: customer_edit.php:155
+msgid "customer_edit_save"
+msgstr "حفظ"
+
+#: customer_edit.php:156
+msgid "customer_edit_cancel"
+msgstr "إلغاء"
+
+#: customer_edit.php:180
+msgid "customer_edit_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: customer_edit.php:183
+msgid "customer_edit_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: customer_edit.php:183
+msgid "customer_edit_change_image"
+msgstr "تغيير الصورة"
+
+#  </customer_edit.php>
+
+#  <customer_details.php>
+
+#: customer_details.php:28
+msgid "customer_details_customers"
+msgstr "العملاء"
+
+#: customer_details.php:29
+msgid "customer_details_customers_details"
+msgstr "تفاصيل العملاء"
+
+#: customer_details.php:33
+msgid "customer_details_basic_information"
+msgstr "المعلومات الأساسية"
+
+#: customer_details.php:46
+msgid "customer_details_full_name"
+msgstr "الاسم الكامل :"
+
+#: customer_details.php:47
+msgid "customer_details_phone_number"
+msgstr "رقم الهاتف :"
+
+#: customer_details.php:48
+msgid "customer_details_email"
+msgstr "البريد الإلكتروني :"
+
+#: customer_details.php:49
+msgid "customer_details_address"
+msgstr "العنوان :"
+
+#: customer_details.php:60
+msgid "customer_details_sales_history"
+msgstr "تاريخ المبيعات"
+
+#: customer_details.php:64
+msgid "customer_details_invoice"
+msgstr "رقم فاتورة المبيعات"
+
+#: customer_details.php:65
+msgid "customer_details_date"
+msgstr "التاريخ"
+
+#: customer_details.php:66
+msgid "customer_details_total"
+msgstr "الإجمالي"
+
+#: customer_details.php:67
+#: customer_details.php:88
+msgid "customer_details_paid"
+msgstr "المدفوع"
+
+#: customer_details.php:68
+msgid "customer_details_status"
+msgstr "الحالة"
+
+#: customer_details.php:88
+msgid "customer_details_loan"
+msgstr "دين"
+
+#: customer_details.php:89
+msgid "customer_details_view_invoice"
+msgstr "عرض الفاتورة"
+
+#: customer_details.php:134
+msgid "customer_details_total_debt"
+msgstr "اجمالي الدين"
+
+#: customer_details.php:137
+msgid "customer_details_total_paid"
+msgstr "مسدد"
+
+#: customer_details.php:140
+msgid "customer_details_not_paid"
+msgstr "غير مسدد"
+
+#: customer_details.php:156
+msgid "customer_details_paid_debts"
+msgstr "الديون المسدده"
+
+#: customer_details.php:244
+msgid "customer_details_Type_Of_Transaction"
+msgstr "نوع العملية"
+
+#: customer_details.php:263
+msgid "customer_details_sale_Transaction"
+msgstr "مبيغات"
+
+#: customer_details.php:263
+msgid "customer_details_refund_Transaction"
+msgstr "مرتجعات"
+
+#  </customer_details.php>
+
+# <customer_add.php>
+
+#: customer_add.php:16
+msgid "customer_add_please_enter_first_name"
+msgstr "الرجاء إدخال الاسم الأول."
+
+#: customer_add.php:34
+#: customer_add.php:63
+msgid "customer_add_something_went_wrong_error"
+msgstr "عفواً! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+
+#: customer_add.php:46
+msgid "customer_add_please_enter_last_name"
+msgstr "الرجاء إدخال الاسم الأخير."
+
+#: customer_add.php:109
+msgid "customer_add_successfully_added"
+msgstr "تمت الإضافة بنجاح"
+
+#: customer_add.php:111
+msgid "customer_add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: customer_add.php:127
+msgid "customer_add_customers"
+msgstr "العملاء"
+
+#: customer_add.php:125
+#: customer_add.php:130
+msgid "customer_add_new_customers"
+msgstr "إضافة عملاء جدد"
+
+#: customer_add.php:139
+msgid "customer_add_first_name"
+msgstr "الاسم الاول"
+
+#: customer_add.php:147
+msgid "customer_add_last_name"
+msgstr "الاسم الاخير"
+
+#: customer_add.php:155
+msgid "customer_add_company_name"
+msgstr "اسم الشركة"
+
+#: customer_add.php:163
+msgid "customer_add_email"
+msgstr "البريد الإلكتروني"
+
+#: customer_add.php:171
+msgid "customer_add_phone_number"
+msgstr "رقم الهاتف"
+
+#: customer_add.php:179
+msgid "customer_add_address"
+msgstr "العنوان"
+
+#: customer_add.php:199
+msgid "customer_add_save"
+msgstr "حفظ"
+
+#: customer_add.php:200
+msgid "customer_add_cancel"
+msgstr "إلغاء"
+
+#: customer_add.php:225
+msgid "customer_add_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: general_settings.php:228
+msgid "customer_add_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: general_settings.php:228
+msgid "customer_add_change_image"
+msgstr "تغيير الصورة"
+
+# </customer_add.php>
+
+#  <customers.php>
+
+#: customers.php:21
+msgid "Page_Title_Customers"
+msgstr "العملاء"
+
+#: customers.php:26
+msgid "customers_search_by_customer_name"
+msgstr "البحث عن طريق اسم العميل"
+
+#: customers.php:42
+msgid "customers_add_new_customer"
+msgstr "إضافة عميل جديد"
+
+#: customers.php:49
+msgid "customers_loading"
+msgstr "جاري تحميل..."
+
+#: customers.php:80
+msgid "customers_customers"
+msgstr "العملاء"
+
+#: customers.php:81
+msgid "customers_phone_number"
+msgstr "رقم الهاتف"
+
+#: customers.php:102
+msgid "customers_action"
+msgstr "إجراء"
+
+#: customers.php:105
+msgid "customers_view_details"
+msgstr "عرض التفاصيل"
+
+#: customers.php:106
+msgid "customers_edit"
+msgstr "تعديل"
+
+#: customers.php:107
+#: customers.php:164
+msgid "customers_delete"
+msgstr "حذف"
+
+#: customers.php:153
+msgid "customers_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: customers.php:157
+msgid "customers_cancel"
+msgstr "إلغاء"
+
+#  </customers.php>
+
+#  <user_edit.php>
+
+#: user_edit.php:18
+msgid "user_edit_users"
+msgstr "المستخدمين"
+
+#: user_edit.php:18
+#: user_edit.php:83
+msgid "user_edit_edit_users"
+msgstr "تعديل المستخدم"
+
+#: user_edit.php:63
+msgid "user_edit_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: user_edit.php:67
+msgid "user_edit_successfully_added"
+msgstr "تمت إضافة المستخدم بنجاح"
+
+#: user_edit.php:93
+msgid "user_edit_full_name"
+msgstr "الاسم الكامل"
+
+#: user_edit.php:103
+msgid "user_edit_phone_number"
+msgstr "رقم الهاتف"
+
+#: user_edit.php:113
+msgid "user_edit_email"
+msgstr "البريد الإلكتروني"
+
+#: user_edit.php:123
+msgid "user_edit_password"
+msgstr "كلمة المرور"
+
+#: user_edit.php:130
+msgid "user_edit_role"
+msgstr "الوظيفة"
+
+#: user_edit.php:133
+msgid "user_edit_cashier"
+msgstr "أمين صندوق"
+
+#: user_edit.php:134
+msgid "user_edit_admin"
+msgstr "مشرف"
+
+#: user_edit.php:401
+msgid "user_edit_save"
+msgstr "حفظ"
+
+#: user_edit.php:402
+msgid "user_edit_cancel"
+msgstr "إلغاء"
+
+#: user_edit.php:423
+msgid "user_edit_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: user_edit.php:426
+msgid "user_edit_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: user_edit.php:426
+msgid "user_edit_change_image"
+msgstr "تغيير الصورة"
+
+#  </user_edit.php>
+
+#  <user_details.php>
+
+#: user_details.php:16
+msgid "user_details_users"
+msgstr "المستخدمين"
+
+#: user_details.php:17
+msgid "user_details_user_details"
+msgstr "بيانات المستخدم"
+
+#: user_details.php:29
+msgid "user_details_details"
+msgstr "بيانات"
+
+#: user_details.php:41
+msgid "user_details_user_name"
+msgstr "اسم المستخدم : "
+
+#: user_details.php:42
+msgid "user_details_phone_number"
+msgstr "رقم الهاتف : "
+
+#: user_details.php:43
+msgid "user_details_email"
+msgstr "البريد الإلكتروني : "
+
+#: user_details.php:44
+msgid "user_details_role"
+msgstr "الوظيفة : "
+
+#: user_details.php:44
+msgid "user_details_cashier"
+msgstr "أمين صندوق"
+
+#: user_details.php:44
+msgid "user_details_admin"
+msgstr "مشرف"
+
+#  </user_details.php>
+
+#  <user_add.php>
+
+#: user_add.php:14
+msgid "user_add_please_enter_full_name"
+msgstr "الرجاء إدخال الاسم الكامل."
+
+#: user_add.php:32
+msgid "user_add_full_name_already_taken"
+msgstr "هذا الاسم مأخوذ بالفعل."
+
+#: user_add.php:33
+msgid "user_add_full_name_cehck_field"
+msgstr "عذرًا ، يوجد خطأ ، يرجى التحقق من حقل الاسم"
+
+#: user_add.php:38
+#: user_add.php:68
+#: user_add.php:97
+msgid "user_add_something_went_wrong_error"
+msgstr "عفواً! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+
+#: user_add.php:49
+msgid "user_add_please_enter_phone_number"
+msgstr "الرجاء إدخال رقم هاتف."
+
+#: user_add.php:78
+msgid "user_add_please_enter_email"
+msgstr "من فضلك أدخل بريد الكتروني"
+
+#: user_add.php:91
+msgid "user_add_email_already_taken"
+msgstr "هذا البريد الإلكتروني مأخوذ بالفعل."
+
+#: user_add.php:92
+msgid "user_add_email_cehck_field"
+msgstr "عذرًا ، يوجد خطأ ، يرجى التحقق من حقل البريد الإلكتروني"
+
+#: user_add.php:108
+msgid "user_add_enter_password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+#: user_add.php:110
+msgid "user_add_password_length"
+msgstr "يجب أن تحتوي كلمة المرور على 6 أحرف على الأقل."
+
+#: user_add.php:63
+msgid "user_add_phone_number_cehck_field"
+msgstr "عذرًا هناك خطأ ، يرجى التحقق من حقل الهاتف"
+
+#: user_add.php:62
+msgid "user_add_phone_number_already_taken"
+msgstr "هذا الهاتف مأخوذ بالفعل."
+
+#: user_add.php:151
+msgid "user_add_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#: user_add.php:153
+msgid "user_add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: user_add.php:169
+msgid "user_add_users"
+msgstr "المستخدمين"
+
+#: user_add.php:170
+#: user_add.php:175
+msgid "user_add_new_users"
+msgstr "إضافة مستخدم جديد"
+
+#: user_add.php:182
+msgid "user_add_full_name"
+msgstr "الاسم الكامل"
+
+#: user_add.php:190
+msgid "user_add_phone_number"
+msgstr "رقم الهاتف"
+
+#: user_add.php:198
+msgid "user_add_email"
+msgstr "البريد الإلكتروني"
+
+#: user_add.php:206
+msgid "user_add_password"
+msgstr "كلمه السر"
+
+#: user_add.php:214
+msgid "user_add_role"
+msgstr "وظيفة"
+
+#: user_add.php:217
+msgid "user_add_cashier"
+msgstr "أمين صندوق"
+
+#: user_add.php:218
+msgid "user_add_admin"
+msgstr "مشرف"
+
+#: user_add.php:243
+msgid "user_add_save"
+msgstr "حفظ"
+
+#: user_add.php:402
+msgid "user_add_cancel"
+msgstr "إلغاء"
+
+#: user_add.php:264
+msgid "user_add_cancel_or_reset"
+msgstr "إلغاء أو إعادة تعيين التغييرات"
+
+#: user_add.php:267
+msgid "user_add_your_avater"
+msgstr "الصورة الرمزية الخاصة بك"
+
+#: user_add.php:267
+msgid "user_add_upload_image"
+msgstr "تغيير الصورة"
+
+#  </user_add.php>
+
+#  <users.php>
+
+#: users.php:22
+msgid "Page_Title_Users"
+msgstr "المستخدمين"
+
+#: users.php:26
+msgid "users_search_by_username"
+msgstr "البحث عن طريق اسم المستخدم"
+
+#: users.php:41
+msgid "users_add_new_user"
+msgstr "إضافة مستخدم جديد"
+
+#: users.php:49
+msgid "users_loading"
+msgstr "جاري تحميل..."
+
+#: users.php:80
+msgid "users_users"
+msgstr "المستخدمين"
+
+#: users.php:81
+msgid "users_role"
+msgstr "وظيفة"
+
+#: users.php:82
+#: users.php:99
+msgid "users_action"
+msgstr "إجراء"
+
+#: users.php:96
+msgid "users_admin"
+msgstr "مشرف"
+
+#: users.php:102
+msgid "users_view_details"
+msgstr "عرض التفاصيل"
+
+#: users.php:103
+msgid "users_edit"
+msgstr "تعديل"
+
+#: users.php:104
+#: users.php:158
+msgid "users_delete"
+msgstr "حذف"
+
+#: users.php:147
+msgid "users_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: users.php:151
+msgid "users_cancel"
+msgstr "إلغاء"
+
+#  </users.php>
+
+#  <Reports>
+
+#  <category.php>
+
+#: category.php:17
+msgid "category_invoice"
+msgstr "فاتورة الفئات"
+
+#: category.php:37
+msgid "category_name"
+msgstr "الأسم"
+
+#: category.php:37
+msgid "category_total_sales"
+msgstr "إجمالي المبيعات"
+
+#: category.php:37
+msgid "category_profit"
+msgstr "الأرباح"
+
+#  </category.php>
+
+#  <product.php>
+
+#: product.php:17
+msgid "product_product_invoice"
+msgstr "فاتورة المنتجات"
+
+#: product.php:37
+msgid "product_product"
+msgstr "المنتجات"
+
+#: product.php:37
+msgid "product_purchase"
+msgstr "المشتريات"
+
+#: product.php:37
+msgid "product_profit"
+msgstr "الأرباح"
+
+#  </product.php>
+
+#  <profit.php>
+
+#: product.php:17
+msgid "profit_profit_invoice"
+msgstr "فاتورة الأرباح "
+
+#: product.php:20
+msgid "profit_total_sales"
+msgstr "إجمالي المبيعات"
+
+#: product.php:21
+msgid "profit_cost_of_sales"
+msgstr "تكلفة المبيعات"
+
+#: product.php:21
+msgid "profit_groos_profit_loss"
+msgstr "إجمالي الربح (الخسارة)"
+
+#: product.php:21
+msgid "profit_total_expense"
+msgstr "المصاريف الكلية"
+
+#: product.php:21
+msgid "profit_net_profit_before_tax"
+msgstr "صافي الربح / الخسارة قبل الضرائب"
+
+#: product.php:21
+msgid "profit_total_tax"
+msgstr "مجموع الضرائب"
+
+#: product.php:21
+msgid "profit_net_profit_after_tax"
+msgstr "صافي الربح / الخسارة بعد الضرائب"
+
+#  </profit.php>
+
+#  <purchase.php>
+
+#: purchase.php:17
+msgid "purchase_purchase_invoice"
+msgstr "فاتورة المشتريات"
+
+#: purchase.php:21
+msgid "purchase_reference_no"
+msgstr "رقم المرجع"
+
+#: purchase.php:21
+msgid "purchase_supplier"
+msgstr "المورد"
+
+#: purchase.php:21
+msgid "purchase_product_name"
+msgstr "اسم المنتج"
+
+#: purchase.php:21
+msgid "purchase_quantity"
+msgstr "الكمية"
+
+#: purchase.php:21
+msgid "purchase_price"
+msgstr "السعر"
+
+#: purchase.php:21
+msgid "purchase_date"
+msgstr "التاريخ"
+
+#  </purchase.php>
+
+#  <sales.php>
+
+#: sales.php:17
+msgid "sales_sales_invoice"
+msgstr "فاتورة المبيعات"
+
+#: sales.php:37
+msgid "sales_reference_no"
+msgstr "رقم المرجع"
+
+#: sales.php:37
+msgid "sales_reports_customer"
+msgstr "العميل"
+
+#: sales.php:37
+msgid "sales_product_name"
+msgstr "اسم المنتج"
+
+#: sales.php:37
+msgid "sales_warehouse"
+msgstr "مستودع"
+
+#: sales.php:37
+msgid "sales_report_date"
+msgstr "التاريخ"
+
+#  </sales.php>
+
+#  <supplier.php>
+
+#: supplier.php:21
+msgid "Page_Title_Suppliers"
+msgstr "الموردين"
+
+#: supplier.php:26
+msgid "supplier_search_by_supplier_name"
+msgstr "البحث عن طريق اسم المورد"
+
+#: supplier.php:37
+msgid "supplier_date"
+msgstr "التاريخ"
+
+#: supplier.php:37
+msgid "supplier_amount_of_purchse"
+msgstr "مبلغ الشراء"
+
+#: supplier.php:37
+msgid "supplier_paid"
+msgstr "المدفوع"
+
+#: supplier.php:37
+msgid "supplier_total_debit"
+msgstr "مجموع الدين"
+
+#  </supplier.php>
+
+#  <stock.php>
+
+#: stock.php:94
+msgid "stock_stock_value_by_cost_price"
+msgstr "قيمة المخزون حسب سعر التكلفة"
+
+#: stock.php:94
+msgid "stock_stock_value_by_selling_price"
+msgstr "قيمة الأسهم عن طريق سعر البيع"
+
+#: stock.php:94
+msgid "stock_profit_estimate"
+msgstr "تقدير الربح"
+
+#: stock.php:96
+msgid "stock_report_value"
+msgstr "قيمة المخزون"
+
+#: stock.php:113
+msgid "stock_stock_value_all_products"
+msgstr "قيمة المخزون (جميع المنتجات)"
+
+#  </stock.php>
+
+#  <Reports>
+
+
+#  <purchase_order.php>
+#: purchase_order.php:15
+msgid "All_purchase_order"
+msgstr "جميع طلبات الشراء"
+
+#: purchase_order.php:23
+msgid "Page_Title_Purchase"
+msgstr "المشتريات"
+
+#: purchase_order.php:18
+msgid "Received_purchase_order"
+msgstr "طلبات الشراء المستلمة"
+
+#: purchase_order.php:19
+msgid "Sent_purchase_order"
+msgstr "طلبات الشراء المرسلة"
+
+#: purchase_order.php:20
+msgid "Archived_purchase_order"
+msgstr "طلبات الشراء المؤرشفة"
+
+#: purchase_order.php:28
+msgid "purchas_order_search_by_user_name"
+msgstr "البحث عن طريق اسم المورد"
+
+#: purchase_order.php:40
+msgid "add_new_purchase_order"
+msgstr "إضافة طلب شراء"
+
+#: purchase_order.php:49
+msgid "purchase_order_Loading"
+msgstr "جاري التحميل..."
+
+#: purchase_order.php:86
+msgid "Purchase_order_invoice_no"
+msgstr "رقم فاتورة الشراء"
+
+#: purchase_order.php:87
+msgid "Purchase_order_Date"
+msgstr "التاريخ"
+
+#: purchase_order.php:88
+msgid "Purchase_order_Total"
+msgstr "الإجمالي"
+
+#: purchase_order.php:90
+msgid "Purchase_order_Paid"
+msgstr "المدفوع"
+
+#: purchase_order.php:89
+msgid "Purchase_order_Status"
+msgstr "حالة طلب الشراء"
+
+#: purchase_order.php:90
+msgid "Purchase_order_Supplier"
+msgstr "المورد"
+
+#: purchase_order.php:91
+msgid "Purchase_order_username"
+msgstr "المستخدم"
+
+#: purchase_order.php:118
+msgid "Purchase_order_action"
+msgstr "إجراء"
+
+#: purchase_order.php:121
+msgid "Purchase_order_view_details"
+msgstr "عرض التفاصيل"
+
+#: purchase_order.php:124
+msgid "Purchase_order_Received_Order"
+msgstr "استلام طلب الشراء"
+
+#: purchase_order.php:125
+msgid "Purchase_order_Send"
+msgstr "إرسال"
+
+#: purchase_order.php:128
+msgid "Purchase_order_archive"
+msgstr "ارشفة"
+
+#: purchase_order.php:130
+msgid "Purchase_order_Cancel"
+msgstr "الغاء الإرسال"
+
+
+#  </purchase_order.php>
+
+
+#  <purchase_order_Search.php>
+#: purchase_order_Search.php:93
+msgid "PO_Search_Invoice_Number"
+msgstr "رقم فاتورة الشراء"
+
+#: purchase_order_Search.php:94
+msgid "PO_Search_Date"
+msgstr "التاريخ"
+
+#: purchase_order_Search.php:95
+msgid "PO_Search_Total"
+msgstr "الإجمالي"
+
+#: purchase_order_Search.php:96
+msgid "PO_Search_Status"
+msgstr "حالة طلب الشراء"
+
+#: purchase_order_Search.php:97
+msgid "PO_Search_Supplier"
+msgstr "المورد"
+
+#: purchase_order_Search.php:98
+msgid "PO_Search_User"
+msgstr "المستخدم"
+
+#: purchase_order_Search.php:124
+msgid "PO_Search_Action"
+msgstr "إجراء"
+
+#: purchase_order_Search.php:127
+msgid "PO_Search_view_details"
+msgstr "عرض التفاصيل"
+
+#: purchase_order_Search.php:130
+msgid "PO_Search_Received_Order"
+msgstr "استلام طلب الشراء"
+
+#: purchase_order_Search.php:131
+msgid "PO_Search_Send"
+msgstr "إرسال"
+
+#: purchase_order_Search.php:128
+msgid "PO_Search_archive"
+msgstr "ارشفة"
+
+#: purchase_order_Search.php:136
+msgid "PO_Search_Cancel"
+msgstr "الغاء الإرسال"
+
+
+
+#  </purchase_order_Search.php>
+
+#  <purchase_order_add.php>
+#: purchase_order_add.php:21
+msgid "PO_Purchase_orders"
+msgstr "طلبات الشراء"
+
+#: purchase_order_add.php:22
+msgid "PO_Add_New_Purchase_Order"
+msgstr "إضافة طلب شراء"
+
+#: purchase_order_add.php:83
+msgid "PO_add_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#:purchase_order_add.php:85
+msgid "PO_add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+
+#: purchase_order_add.php:102
+msgid "PO_header_Add_New_Purchase_Order"
+msgstr "إضافة طلب شراء"
+
+#: purchase_order_add.php:110
+msgid "Add_New_PO_Title"
+msgstr "اسم طلب الشراء"
+
+#:purchase_order_add.php:118
+msgid "Add_New_PO_Inventory"
+msgstr "المستودع"
+
+
+#: purchase_order_add.php:120
+msgid "Add_New_PO_choose_Warehouse"
+msgstr "...اختار المستودع"
+
+#:purchase_order_add.php:138
+msgid "Add_New_PO_Add_supplier"
+msgstr "إضافة مورد"
+
+#: purchase_order_add.php:148
+msgid "Add_New_PO_Add_product"
+msgstr "إضافة منتج"
+
+#: purchase_order_add.php:158
+msgid "Add_New_PO_Note"
+msgstr "ملاحظة"
+
+#:purchase_order_add.php:164
+msgid "Add_New_PO_Save"
+msgstr "حفظ"
+
+#: purchase_order_add.php:165
+msgid "Add_New_PO_Cancel"
+msgstr "إلغاء"
+
+#: purchase_order_add.php:176
+msgid "Add_New_PO_Supplier_Modal_Title"
+msgstr "الموردين"
+
+#: purchase_order_add.php:184
+msgid "Add_New_PO_Choose_Supplier"
+msgstr "...اختار المورد"
+
+#: purchase_order_add.php:194
+msgid "Add_New_PO_Choose_Supplier_Done"
+msgstr "تم"
+
+#: purchase_order_add.php:195
+msgid "Add_New_PO_Choose_Supplier_Cancel"
+msgstr "إلغاء"
+
+#: purchase_order_add.php:206
+msgid "Add_New_PO_Products_Modal_Title"
+msgstr "المنتجات"
+
+#: purchase_order_add.php:227
+msgid "Add_New_PO_Choose_Products_Done"
+msgstr "تم"
+
+#: purchase_order_add.php:228
+msgid "Add_New_PO_Choose_Products_Cancel"
+msgstr "إلغاء"
+
+
+#  </purchase_order_add.php>
+
+#  <purchase_order_details.php>
+
+#: purchase_order_details.php:28
+msgid "PO_Details_header"
+msgstr "طلبات الشراء"
+
+#: purchase_order_details.php:29
+msgid "PO_Details"
+msgstr "تفاصيل طلب الشراء"
+
+#: purchase_order_details.php:37
+msgid "PO_Details_invoice"
+msgstr "فاتورة طلب الشراء"
+
+#: purchase_order_details.php:44
+msgid "PO_Details_To"
+msgstr "طلب الشراء إلى"
+
+#: purchase_order_details.php:46
+msgid "PO_Details_By"
+msgstr "طلب الشراء من"
+
+#: purchase_order_details.php:52
+msgid "PO_Details_Date"
+msgstr "التاريخ"
+
+#: purchase_order_details.php:53
+msgid "PO_Details_Number"
+msgstr "رقم طلب الشراء"
+
+#: purchase_order_details.php:63
+msgid "PO_Details_Product"
+msgstr "المنتج"
+
+#: purchase_order_details.php:65
+msgid "PO_Details_Quantity"
+msgstr "الكمية"
+
+#: purchase_order_details.php:68
+msgid "PO_Details_Price"
+msgstr "السعر"
+
+#: purchase_order_details.php:69
+msgid "PO_Details_Discount"
+msgstr "الخصم"
+
+#: purchase_order_details.php:70
+msgid "PO_Details_Tax"
+msgstr "الضريبة"
+
+#: purchase_order_details.php:71
+msgid "PO_Details_Total"
+msgstr "الإجمالي"
+
+#: purchase_order_details.php:133
+msgid "PO_Details_subtotal"
+msgstr "الصافي"
+
+#: purchase_order_details.php:134
+msgid "PO_Details_Total_Discount"
+msgstr "الخصم"
+
+#: purchase_order_details.php:135
+msgid "PO_Details_Total_Tax"
+msgstr "الضريبة"
+
+#: purchase_order_details.php:143
+msgid "PO_Details_Submit"
+msgstr "إرسال"
+
+#: purchase_order_details.php:144
+msgid "PO_Details_Cancel"
+msgstr "إلغاء"
+
+#  </purchase_order_details.php>
+
+
+#  <purchase_order_received.php>
+#: purchase_order_received.php:130
+msgid "PO_Received_Order_To"
+msgstr "طلب الشراء إلى"
+
+#: purchase_order_received.php:132
+msgid "PO_Received_Order_By"
+msgstr "طلب الشراء من"
+
+#: purchase_order_received.php:134
+msgid "PO_Received_Number"
+msgstr "رقم طلب الشراء"
+
+#: purchase_order_received.php:140
+msgid "PO_Received_Title"
+msgstr "اسم طلب الشراء"
+
+#: purchase_order_received.php:145
+msgid "PO_Received_warehouse"
+msgstr "المستودع"
+
+#: purchase_order_received.php:154
+msgid "PO_Received_Created_Date"
+msgstr "تاريخ الإنشاء"
+
+#: purchase_order_received.php:159
+msgid "PO_Received_Delivery_Date"
+msgstr "تاريخ التوصيل"
+
+#: purchase_order_received.php:176
+msgid "PO_Received_Price"
+msgstr "السعر"
+
+#: purchase_order_received.php:181
+msgid "PO_Received_ordered_Qty"
+msgstr "الكمية المطلوبة"
+
+#: purchase_order_received.php:186
+msgid "PO_Received_Received_Qty"
+msgstr "الكمية المستلمة"
+
+#: purchase_order_received.php:191
+msgid "PO_Received_Tax"
+msgstr "الضريبة"
+
+#: purchase_order_received.php:196
+msgid "PO_Received_Discount"
+msgstr "الخصم"
+
+#: purchase_order_received.php:201
+msgid "PO_Received_Total"
+msgstr "الإجمالي"
+
+#: purchase_order_received.php:206
+msgid "PO_Received_Expiry_Date"
+msgstr "ناريخ الإنتهاء"
+
+#: purchase_order_received.php:221
+msgid "PO_Received_Cash"
+msgstr "نقدا"
+
+#: purchase_order_received.php:222
+msgid "PO_Received_Account"
+msgstr "على الحساب"
+
+#: purchase_order_received.php:229
+msgid "PO_Received_subtotal"
+msgstr "الصافي"
+
+#: purchase_order_received.php:233
+msgid "PO_Received_Total_Discount"
+msgstr "الخصم"
+
+#: purchase_order_received.php:237
+msgid "PO_Received_Total_Tax"
+msgstr "الضريبة"
+
+
+#: purchase_order_received.php:241
+msgid "PO_Received_Whole_Total"
+msgstr "الإجمالي"
+
+#: purchase_order_received.php:245
+msgid "PO_Received_Paid"
+msgstr "المدفوع"
+
+#: purchase_order_received.php:253
+msgid "PO_Received_Note"
+msgstr "ملاحظة"
+
+#: purchase_order_received.php:256
+msgid "PO_Received_Done"
+msgstr "تم"
+
+#: purchase_order_received.php:257
+msgid "PO_Received_Cancel"
+msgstr "إلغاء"
+
+#  </purchase_order_received.php>
+
+
+#  <expense.php>
+
+#: expense.php:27
+msgid "Page_Title_Expense"
+msgstr "المصروفات"
+
+#: expense.php:33
+msgid "expense_Search"
+msgstr "البحث عن طريق نوع المصروفات"
+
+#: expense.php:42
+msgid "expense_Add_New"
+msgstr "اضافة مصروفات"
+
+#: expense.php:50
+msgid "expense_Loading"
+msgstr "جاري التحميل ..."
+
+#: expense.php:93
+msgid "expense_Date"
+msgstr "التاريخ"
+
+#: expense.php:94
+msgid "expense_Type"
+msgstr "النوع"
+
+#: expense.php:95
+msgid "expense_Description"
+msgstr "الوصف"
+
+#: expense.php:96
+msgid "expense_User"
+msgstr "المستخدم"
+
+#: expense.php:97
+msgid "expense_Total"
+msgstr "الإجمالي"
+
+#: expense.php:122
+msgid "expense_Action"
+msgstr "إجراء"
+
+#: expense.php:125
+msgid "expense_Edit"
+msgstr "تعديل"
+
+#: expense.php:126
+msgid "expense_Delete"
+msgstr "حذف"
+
+#: expense.php:170
+msgid "expense_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: expense.php:174
+msgid "expense_alert_cancel"
+msgstr "الغاء"
+
+#: expense.php:181
+msgid "expense_alert_delete"
+msgstr "حذف"
+
+
+#  </expense.php>
+
+#  <expense_search.php>
+
+#: expense_search.php:88
+msgid "expense_Search_Date"
+msgstr "التاريخ"
+
+#: expense_search.php:89
+msgid "expense_Search_Type"
+msgstr "النوع"
+
+#: expense_search.php:90
+msgid "expense_Search_Description"
+msgstr "الوصف"
+
+#: expense_search.php:91
+msgid "expense_Search_User"
+msgstr "المستخدم"
+
+#: expense_search.php:92
+msgid "expense_Search_Total"
+msgstr "الإجمالي"
+
+#: expense_search.php:116
+msgid "expense_Search_Action"
+msgstr "إجراء"
+
+#: expense_search.php:120
+msgid "expense_Search_Edit"
+msgstr "تعديل"
+
+#: expense_search.php:121
+msgid "expense_Search_Delete"
+msgstr "حذف"
+
+#: expense_search.php:142
+msgid "expense_search_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: expense_search.php:146
+msgid "expense_search_alert_cancel"
+msgstr "الغاء"
+
+#: expense_search.php:153
+msgid "expense_search_alert_delete"
+msgstr "حذف"
+
+
+
+#  </expense_search.php>
+
+
+#  <expense_add.php>
+
+#: expense_add.php:21
+msgid "expense_Add_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#:expense_add.php:23
+msgid "expense_Add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: expense_add.php:37
+msgid "expense_Add_header"
+msgstr "المصروفات"
+
+#: expense_add.php:38
+msgid "expense_Add_New_header"
+msgstr "اضافة مصروفات"
+
+#: expense_add.php:45
+msgid "expense_Add_main_header"
+msgstr "اضافة مصروفات"
+
+#: expense_add.php:53
+msgid "expense_Add_Type"
+msgstr "نوع المصروفات"
+
+#: expense_add.php:55
+msgid "expense_Add_Type_choose"
+msgstr "اختار..."
+
+#: expense_add.php:56
+msgid "expense_Add_Type_Utilities"
+msgstr "خدمات"
+
+#: expense_add.php:57
+msgid "expense_Add_Type_Telecommunication"
+msgstr "اتصالات"
+
+#: expense_add.php:58
+msgid "expense_Add_Type_Salaries"
+msgstr "رواتب"
+
+#: expense_add.php:59
+msgid "expense_Add_Type_Rent"
+msgstr "إيجار"
+
+#: expense_add.php:60
+msgid "expense_Add_Type_Maintenance"
+msgstr "صيانة"
+
+#: expense_add.php:71
+msgid "expense_Add_Total"
+msgstr "الإجمالي"
+
+#: expense_add.php:81
+msgid "expense_Add_Description"
+msgstr "الوصف"
+
+#: expense_add.php:87
+msgid "expense_Add_Save"
+msgstr "حفظ"
+
+
+#: expense_add.php:88
+msgid "expense_Add_Cancel"
+msgstr "إلغاء"
+
+
+#  </expense_add.php>
+
+#  <expense_edit.php>
+#: expense_edit.php:14
+msgid "expense_edit_header"
+msgstr "المصروفات"
+
+#: expense_edit.php:15
+msgid "expense_edit_New_header"
+msgstr "تعديل مصروفات"
+
+#: expense_edit.php:39
+msgid "expense_edit_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#:expense_edit.php:36
+msgid "expense_edit_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+
+#: expense_edit.php:53
+msgid "expense_edit_main_header"
+msgstr "تعديل مصروفات"
+
+#: expense_edit.php:62
+msgid "expense_edit_Type"
+msgstr "نوع المصروفات"
+
+
+#: expense_edit.php:64
+msgid "expense_edit_Type_Utilities"
+msgstr "خدمات"
+
+#: expense_edit.php:65
+msgid "expense_edit_Type_Telecommunication"
+msgstr "اتصالات"
+
+#: expense_edit.php:66
+msgid "expense_edit_Type_Salaries"
+msgstr "رواتب"
+
+#: expense_edit.php:67
+msgid "expense_edit_Type_Rent"
+msgstr "إيجار"
+
+#: expense_edit.php:68
+msgid "expense_edit_Type_Maintenance"
+msgstr "صيانة"
+
+#: expense_edit.php:79
+msgid "expense_edit_Total"
+msgstr "الإجمالي"
+
+#: expense_edit.php:89
+msgid "expense_edit_Description"
+msgstr "الوصف"
+
+#: expense_edit.php:95
+msgid "expense_edit_update"
+msgstr "تعديل"
+
+
+#: expense_edit.php:96
+msgid "expense_edit_Cancel"
+msgstr "إلغاء"
+
+#  </expense_edit.php>
+
+
+#  <Categories.php>
+
+#: Categories.php:15
+msgid "Category_header"
+msgstr "الأصناف"
+
+#: Categories.php:16
+msgid "subCategory_header"
+msgstr "الأصناف الفرعية"
+
+#: Categories.php:41
+msgid "Category_search_input"
+msgstr "البحث باستخدام الاسم"
+
+#: Categories.php:52
+msgid "Category_Add_New_category"
+msgstr "إضافة صنف جديد"
+
+#: Categories.php:61
+msgid "Category_loading"
+msgstr "... جاري التحميل"
+
+#: Categories.php:95
+msgid "Category_Name"
+msgstr "اسم الصنف"
+
+#: Categories.php:96
+msgid "Category_Status"
+msgstr " الحالة"
+
+#: Categories.php:126
+msgid "Category_Action"
+msgstr " إجراء"
+
+#: Categories.php:129
+msgid "Category_Edit"
+msgstr " تعديل"
+
+#: Categories.php:130
+msgid "Category_Delete"
+msgstr " حذف"
+
+#: Categories.php:170
+msgid "subCategory_search_input"
+msgstr "البحث باستخدام الاسم"
+
+#: Categories.php:178
+msgid "subCategory_Add_New_category"
+msgstr "إضافة صنف فرعي جديد"
+
+#: Categories.php:184
+msgid "subCategory_loading"
+msgstr "... جاري التحميل"
+
+#: Categories.php:213
+msgid "subCategory_Name"
+msgstr "اسم الصنف الفرعي"
+
+#: Categories.php:214
+msgid "subCategory_category_Name"
+msgstr "اسم الصنف "
+
+#: Categories.php:215
+msgid "subCategory_Status"
+msgstr " الحالة"
+
+#: Categories.php:246
+msgid "subCategory_Action"
+msgstr " إجراء"
+
+#: Categories.php:249
+msgid "subCategory_Edit"
+msgstr " تعديل"
+
+#: Categories.php:250
+msgid "subCategory_Delete"
+msgstr " حذف"
+
+#: Categories.php:320
+msgid "category_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: Categories.php:324
+msgid "category_alert_cancel"
+msgstr "الغاء"
+
+#: Categories.php:331
+msgid "category_alert_delete"
+msgstr "حذف"
+
+#: Categories.php:362
+msgid "subCategory_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: Categories.php:366
+msgid "subCategory_alert_cancel"
+msgstr "الغاء"
+
+#: Categories.php:373
+msgid "subCategory_alert_delete"
+msgstr "حذف"
+
+
+#  </Categories.php>
+
+
+#  <Category_search.php>
+
+#: Category_search.php:87
+msgid "Category_Search_Name"
+msgstr "اسم الصنف"
+
+#: Category_search.php:88
+msgid "Category_Search_Status"
+msgstr " الحالة"
+
+#: Category_search.php:117
+msgid "Category_Search_Action"
+msgstr " إجراء"
+
+#: Category_search.php:120
+msgid "Category_Search_Edit"
+msgstr " تعديل"
+
+#: Category_search.php:121
+msgid "Category_Search_Delete"
+msgstr " حذف"
+
+#: Category_search.php:142
+msgid "Category_Search_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: Category_search.php:146
+msgid "Category_Search_alert_cancel"
+msgstr "الغاء"
+
+#: Category_search.php:153
+msgid "Category_Search_alert_delete"
+msgstr "حذف"
+
+#  </Category_search.php>
+
+
+#  <subcategory_search.php>
+
+#: subcategory_search.php:88
+msgid "subcategory_Search_Name"
+msgstr "اسم الصنف الفرعي"
+
+#: subcategory_search.php:89
+msgid "subcategory_Search_Status"
+msgstr "اسم الصنف "
+
+#: subcategory_search.php:215
+msgid "subCategory_Search_Status"
+msgstr " الحالة"
+
+#: subcategory_search.php:121
+msgid "subcategory_Search_Action"
+msgstr " إجراء"
+
+#: subcategory_search.php:124
+msgid "subcategory_Search_Edit"
+msgstr " تعديل"
+
+#: subcategory_search.php:125
+msgid "subcategory_Search_Delete"
+msgstr " حذف"
+
+
+#: subcategory_search.php:146
+msgid "subcategory_Search_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#: subcategory_search.php:150
+msgid "subcategory_Search_alert_cancel"
+msgstr "الغاء"
+
+#: subcategory_search.php:157
+msgid "subcategory_Search_alert_delete"
+msgstr "حذف"
+
+#  <subcategory_search.php>
+
+
+
+#  <category_add.php>
+
+#: category_add.php:42
+msgid "category_Add_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#:category_add.php:45
+msgid "category_Add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#:category_add.php:57
+msgid "subcategory_Add_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#:category_add.php:60
+msgid "subcategory_Add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#:category_add.php:70
+msgid "category_Add_header"
+msgstr "الأصناف"
+
+#:category_add.php:71
+msgid "category_Add_New_header"
+msgstr "اضافة صنف جديد"
+
+#:category_add.php:79
+msgid "category_Add_tab"
+msgstr "الأصناف"
+
+#:category_add.php:82
+msgid "subcategory_Add_tab"
+msgstr "الأصناف الفرعية"
+
+#: category_add.php:92
+msgid "category_Add_main_header"
+msgstr "اضافة صنف جديد"
+
+#:category_add.php:101
+msgid "category_Add_Name"
+msgstr "اسم الصنف"
+
+#:category_add.php:111
+msgid "category_Add_Description"
+msgstr "الوصف"
+
+#:category_add.php:118
+msgid "category_Add_Status"
+msgstr "الحالة"
+
+#: category_add.php:129
+msgid "category_Add_Save"
+msgstr "حفظ"
+
+#: category_add.php:130
+msgid "category_Add_Cancel"
+msgstr "إلغاء"
+
+#: category_add.php:142
+msgid "subcategory_Add_main_header"
+msgstr "اضافة صنف فرعي جديد"
+
+#:category_add.php:151
+msgid "subcategory_Add_Name"
+msgstr " اسم الصنف الفرعي"
+
+#:category_add:158
+msgid "subcategory_Add_Category"
+msgstr "  الصنف"
+
+#:category_add.php:160
+msgid "subcategory_Add_Category_Choose"
+msgstr "...اختار"
+
+#:category_add.php:173
+msgid "subcategory_Add_Description"
+msgstr "الوصف"
+
+#:category_add.php:181
+msgid "subcategory_Add_Status"
+msgstr "الحالة"
+
+#: category_add.php:192
+msgid "subcategory_Add_Save"
+msgstr "حفظ"
+
+#: category_add.php:193
+msgid "subcategory_Add_Cancel"
+msgstr "إلغاء"
+
+
+#  </category_add.php>
+
+
+#  <category_edit.php>
+#:category_edit.php:16
+msgid "category_edit_New_header"
+msgstr "الأصناف"
+
+#:category_edit.php:17
+msgid "category_edit_header"
+msgstr "تعديل"
+
+#:category_edit.php:47
+msgid "category_edit_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: category_edit.php:50
+msgid "category_edit_successfully_edited"
+msgstr "تم التعديل بنجاح"
+
+#:category_edit.php:67
+msgid "category_edit_tab"
+msgstr "الأصناف"
+
+#:category_edit.php:71
+msgid "subcategory_edit_tab"
+msgstr "الأصناف الفرعية"
+
+#:category_edit.php:83
+msgid "category_edit_main_header"
+msgstr "تعديل الصنف"
+
+#:category_edit.php:91
+msgid "category_edit_Name"
+msgstr "اسم الصنف"
+
+#:category_edit.php:98
+msgid "category_edit_Description"
+msgstr "الوصف"
+
+#:category_edit.php:105
+msgid "category_edit_Status"
+msgstr "الحالة"
+
+#:category_edit.php:114
+msgid "category_edit_Save"
+msgstr "حفظ"
+
+#:category_edit.php:115
+msgid "category_edit_Cancel"
+msgstr "إلغاء"
+
+#:category_edit.php:122
+msgid "subcategory_edit_main_header"
+msgstr "تعديل الصنف الفرعي "
+
+#:category_edit.php:130
+msgid "subcategory_edit_Name"
+msgstr " اسم الصنف الفرعي"
+
+#:category_edit.php:136
+msgid "subcategory_edit_Category"
+msgstr "  الصنف"
+
+#:category_edit.php:138
+msgid "subcategory_edit_Category_Choose"
+msgstr "...اختار"
+
+#:category_edit.php:156
+msgid "subcategory_edit_Description"
+msgstr "الوصف"
+
+#:category_edit.php:163
+msgid "subcategory_edit_Status"
+msgstr "الحالة"
+
+#: category_edit.php:172
+msgid "subcategory_edit_Save"
+msgstr "حفظ"
+
+#: category_edit.php:173
+msgid "subcategory_edit_Cancel"
+msgstr "إلغاء"
+
+
+#  </category_edit.php>
+
+
+
+#  <products.php>
+
+#: products.php:23
+msgid "Page_Title_Products"
+msgstr "المنتجات"
+
+#: products.php:27
+msgid "product_search_input"
+msgstr "البحث باستخدام المنتج"
+
+#: products.php:43
+msgid "product_Add_New_product"
+msgstr "إضافة منتج جديد"
+
+#: products.php:50
+msgid "product_loading"
+msgstr "... جاري التحميل"
+
+#: products.php:76
+msgid "product_Name"
+msgstr "المنتج"
+
+#: products.php:77
+msgid "product_price"
+msgstr " السعر"
+
+#: products.php:78
+msgid "product_stock"
+msgstr " المخزون"
+
+#: products.php:97
+msgid "product_Action"
+msgstr " إجراء"
+
+#: products.php:100
+msgid "product_view"
+msgstr " عرض التفاصيل"
+
+#: products.php:101
+msgid "product_edit"
+msgstr " تعديل"
+
+#: products.php:102
+msgid "product_update_price"
+msgstr " تعديل السعر"
+
+#: products.php:103
+msgid "product_delete"
+msgstr " حذف"
+
+#:product_search.php:141
+msgid "product_delete_alert_message"
+msgstr " هل أنت متأكد أنك تريد الحذف ؟"
+
+#:product_search.php:145
+msgid "product_alert_cancel"
+msgstr " إلغاء"
+
+#:product_search.php:152
+msgid "product_alert_delete"
+msgstr "حذف"
+
+#  </products.php>
+
+#  <product_search.php>
+
+#:product_search.php:45
+msgid "product_search_Name"
+msgstr "المنتج"
+
+#:product_search.php:46
+msgid "product_search_price"
+msgstr " السعر"
+
+#: product_search.php:47
+msgid "product_search_stock"
+msgstr " المخزون"
+
+#: product_search.php:65
+msgid "product_search_Action"
+msgstr " إجراء"
+
+#:product_search.php:68
+msgid "product_search_view"
+msgstr " عرض التفاصيل"
+
+#:product_search.php:69
+msgid "product_search_edit"
+msgstr " تعديل"
+
+#: product_search.php:70
+msgid "product_search_update_price"
+msgstr " تعديل السعر"
+
+#:product_search.php:70
+msgid "product_search_delete"
+msgstr " حذف"
+
+#:product_search.php:105
+msgid "product_search_delete_alert_message"
+msgstr " هل أنت متأكد أنك تريد الحذف ؟"
+
+#:product_search.php:109
+msgid "product_search_alert_cancel"
+msgstr " إلغاء"
+
+#:product_search.php:116
+msgid "product_search_alert_delete"
+msgstr "حذف"
+
+#  </product_search.php>
+
+#  < product_add.php>
+
+#:  product_add.php:83
+msgid " product_Add_successfully_added"
+msgstr "تمت الاضافة بنجاح"
+
+#: product_add.php:85
+msgid " product_Add_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#: product_add.php:99
+msgid "product_Add_header"
+msgstr "المنتجات"
+
+#: product_add.php:100
+msgid "product_Add_New_header"
+msgstr "اضافة منتج جديد"
+
+#: product_add.php:104
+msgid "product_Add_main_header"
+msgstr "اضافة منتج جديد"
+
+#: product_add.php:113
+msgid "product_Add_Name"
+msgstr "اسم المنتج"
+
+#: product_add.php:122
+msgid "product_Add_code"
+msgstr "رمز المنتج"
+
+#: product_add.php:129
+msgid "product_Add_category"
+msgstr "الصنف"
+
+#: product_add.php:131
+msgid "product_Add_choose"
+msgstr "اختار"
+
+#: product_add.php:149
+msgid "product_Add_subcategory"
+msgstr "الصنف الفرعي"
+
+#: product_add.php:151
+msgid "product_Add_subcategory_choose"
+msgstr "اختار"
+
+#:  product_add.php:168
+msgid "product_Add_unit"
+msgstr "الوحدة"
+
+#: product_add.php:170
+msgid "product_Add_unit_choose"
+msgstr "اختار"
+
+#: product_add:187
+msgid "product_Add_weight_type"
+msgstr "نوع الوزن"
+
+#: product_add.php:206
+msgid "product_Add_pieces_box"
+msgstr "عدد القطع في الصندوق"
+
+#: product_add.php:215
+msgid "product_Add_price"
+msgstr "السعر"
+
+#: product_add.php:222
+msgid "product_Add_length"
+msgstr "الطول"
+
+#: product_add.php:229
+msgid "product_Add_width"
+msgstr "العرض"
+
+#: product_add.php:237
+msgid "product_Add_height"
+msgstr "الإرتفاع"
+
+#: product_add.php:244
+msgid "product_Add_tax"
+msgstr "الضريبة"
+
+#: product_add.php:246
+msgid "product_Add_tax_choose"
+msgstr "اختار"
+
+#: product_add.php:264
+msgid "product_Add_status"
+msgstr "الحالة"
+
+#: product_add.php:266
+msgid "product_Add_active"
+msgstr "ظاهر"
+
+#: product_add.php:267
+msgid "product_Add_Inactive"
+msgstr "مخفي"
+
+#: product_add.php:275
+msgid "product_Add_description"
+msgstr "الوصف"
+
+#:  product_add.php:298
+msgid "product_Add_save"
+msgstr "حفظ"
+
+#: product_add.php:299
+msgid "product_Add_cancel"
+msgstr "إلغاء"
+
+
+#  </ product_add.php>
+
+
+
+#  < product_edit.php>
+
+#: product_edit.php:33
+msgid "product_edit_header"
+msgstr "المنتجات"
+
+#: product_edit.php:34
+msgid "product_edit_New_header"
+msgstr "تعديل منتج "
+
+#: product_edit.php:87
+msgid " product_edit_successfully_edited"
+msgstr "تم التعديل بنجاح"
+
+#:product_edit.php:89
+msgid "product_edit_something_went_wrong"
+msgstr "عذرا، هناك خطأ ما"
+
+#:product_edit.php:99
+msgid "product_edit_main_header"
+msgstr "تعديل المنتج"
+
+#: product_edit.php:109
+msgid "product_edit_Name"
+msgstr "اسم المنتج"
+
+#:product_edit.php:117
+msgid "product_edit_code"
+msgstr "رمز المنتج"
+
+#:product_edit.php:125
+msgid "product_edit_category"
+msgstr "الصنف"
+
+#: product_edit.php:143
+msgid "product_edit_subcategory"
+msgstr "الصنف الفرعي"
+
+#:product_edit.php:162
+msgid "product_edit_unit"
+msgstr "الوحدة"
+
+#:product_edit.php:179
+msgid "product_edit_weight_type"
+msgstr "نوع الوزن"
+
+#: product_edit.php:197
+msgid "product_edit_pieces_box"
+msgstr "عدد القطع في الصندوق"
+
+#:product_edit.php:205
+msgid "product_edit_price"
+msgstr "السعر"
+
+#:product_edit.php:213
+msgid "product_edit_length"
+msgstr "الطول"
+
+#:product_edit.php:220
+msgid "product_edit_width"
+msgstr "العرض"
+
+#:product_edit.php:228
+msgid "product_edit_height"
+msgstr "الإرتفاع"
+
+#:product_edit.php:235
+msgid "product_edit_tax"
+msgstr "الضريبة"
+
+#:product_edit.php:255
+msgid "product_edit_status"
+msgstr "الحالة"
+
+#:product_edit.php:257
+msgid "product_edit_active"
+msgstr "ظاهر"
+
+#: product_edit.php:258
+msgid "product_edit_Inactive"
+msgstr "مخفي"
+
+#: product_edit.php:266
+msgid "product_edit_description"
+msgstr "الوصف"
+
+#: product_edit.php:286
+msgid "product_edit_save"
+msgstr "حفظ"
+
+#: product_edit.php:287
+msgid "product_edit_cancel"
+msgstr "إلغاء"
+
+
+#  </ product_edit.php>
+
+# <product_details.php>
+
+#:product_details.php:26
+msgid "product_details_header"
+msgstr "المنتجات "
+
+#:product_details.php:27
+msgid "product_details_New_header"
+msgstr "تفاصيل المنتج "
+
+#:product_details.php:42
+msgid "product_details_Name"
+msgstr "المنتج "
+
+#:product_details.php:43
+msgid "product_details_code"
+msgstr " رمز المنتج "
+
+#:product_details.php:44
+msgid "product_details_category"
+msgstr " الصنف "
+
+#:product_details.php:45
+msgid "product_details_subcategory"
+msgstr " الصنف الفرعي"
+
+#:product_details.php:46
+msgid "product_details_price"
+msgstr "السعر"
+
+#:product_details.php:53
+msgid "product_details_length"
+msgstr "الطول"
+
+#:product_details.php:59
+msgid "product_details_width"
+msgstr "العرض"
+
+#:product_details.php:56
+msgid "product_details_height"
+msgstr "الإرتفاع"
+
+#:product_details.php:61
+msgid "product_details_tax"
+msgstr "الضريبة"
+
+#:product_details.php:62
+msgid "product_details_status"
+msgstr "الحالة"
+
+#:product_details.php:84
+msgid "product_details_status_Active"
+msgstr "متاح"
+
+#:product_details.php:84
+msgid "product_details_status_InActive"
+msgstr "مخفي"
+
+#:product_details.php:69
+msgid "product_details_purchase"
+msgstr "تاريخ المشتريات"
+
+#:product_details.php:72
+msgid "product_details_sales"
+msgstr "تاريخ المبيعات"
+
+#:product_details.php:82
+msgid "product_details_purchase_date"
+msgstr "التاريخ"
+
+#:product_details.php:83
+msgid "product_details_purchase_supplier"
+msgstr "المورد"
+
+#:product_details.php:84
+msgid "product_details_purchase_quantity"
+msgstr "الكمية"
+
+#:product_details.php:129
+msgid "product_details_sales_date"
+msgstr "التاريخ"
+
+#:product_details.php:130
+msgid "product_details_sales_customer"
+msgstr "العميل"
+
+#:product_details.php:131
+msgid "product_details_sales_quantity"
+msgstr "الكمية"
+
+
+
+
+
+# </ product_details.php>
+
+# <product_update.php>
+
+#:product_update.php:22
+msgid "product_update_price_input"
+msgstr "تعديل السعر"
+
+#:product_update.php:27
+msgid "product_update_update_btn"
+msgstr "تعديل"
+
+#:product_update.php:28
+msgid "product_update_close_btn"
+msgstr "إغلاق"
+
+# </ product_update.php>
+
+# <product_settings.php>
+
+#:product_settings.php:67
+msgid "product_settings_tax"
+msgstr "الضريبة"
+
+#:product_settings.php:88
+msgid "product_settings_tax_Action"
+msgstr "إجراء"
+
+#:product_settings.php:91
+msgid "product_settings_tax_edit"
+msgstr "تعديل"
+
+#:product_settings.php:92
+msgid "product_settings_tax_delete"
+msgstr "حذف"
+
+#:product_settings.php:108
+msgid "product_settings_discount"
+msgstr "الخصم"
+
+#:product_settings.php:129
+msgid "product_settings_discount_Action"
+msgstr "إجراء"
+
+#:product_settings.php:132
+msgid "product_settings_discount_edit"
+msgstr "تعديل"
+
+#:product_settings.php:133
+msgid "product_settings_discount_delete"
+msgstr "حذف"
+
+#:product_settings.php:153
+msgid "product_settings_tax_add"
+msgstr "إضافة ضريبة"
+
+#:product_settings.php:166
+msgid "product_settings_tax_add_input"
+msgstr "قيمة الضريبة"
+
+#:product_settings.php:173
+msgid "product_settings_tax_add_description"
+msgstr "الوصف"
+
+#:product_settings.php:181
+msgid "product_settings_tax_save"
+msgstr "حفظ"
+
+#:product_settings.php:182
+msgid "product_settings_tax_cancel"
+msgstr "إلغاء"
+
+#:product_settings.php:194
+msgid "product_settings_discount_add"
+msgstr "إضافة خصم"
+
+#:product_settings.php:207
+msgid "product_settings_discount_add_input"
+msgstr "قيمة الخصم"
+
+#:product_settings.php:214
+msgid "product_settings_discount_add_description"
+msgstr "الوصف"
+
+#:product_settings.php:222
+msgid "product_settings_discount_save"
+msgstr "حفظ"
+
+#:product_settings.php:223
+msgid "product_settings_discount_cancel"
+msgstr "إلغاء"
+
+
+#:product_settings.php:241
+msgid "product_settings_delete_alert_message"
+msgstr "هل أنت متأكد أنك تريد الحذف ؟"
+
+#:product_settings.php:245
+msgid "product_settings_alert_cancel"
+msgstr "إلغاء"
+
+#:product_settings.php:252
+msgid "product_settings_alert_delete"
+msgstr "حذف"
+
+# </ product_settings.php>
+
+# <header.php>
+
+#:header.php:108
+msgid "Docs_header_menu_Home"
+msgstr "الرئيسية"
+
+#:header.php:110
+msgid "Docs_header_menu_FAQ"
+msgstr "الاسئلة الشائعة"
+
+#:header.php:112
+msgid "Docs_header_menu_Manual"
+msgstr "دليل المستخدم"
+
+# </header.php>
+
+# <index.php>
+
+#:index.php:13
+msgid "Docs_index_menu_FAQ"
+msgstr "الاسئلة الشائعة"
+
+#:index.php:22
+msgid "Docs_index_menu_User_Manual"
+msgstr "دليل المستخدم"
+
+# </index.php>

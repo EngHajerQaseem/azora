@@ -1,0 +1,3582 @@
+# Azora web translation file.
+# Copyright (C) YEAR THE Azora'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Azora package.
+# Muhanned Noman <Muhanned.Noman@gmail.net>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Web-azora\n"
+"Report-Msgid-Bugs-To: https://github.com/BlackGemTech/Web-azora/issues\n"
+"POT-Creation-Date: 2020-01-07 10:14+0300\n"
+"PO-Revision-Date: 2020-01-07 12:08+0300\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Muhanned Noman\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
+
+#  <login.php>
+
+#: login.php:22
+msgid "missing_phone_number"
+msgstr "Please enter your phone number."
+
+#: login.php:29
+msgid "missing_password"
+msgstr "Please enter your password."
+
+#: login.php:69
+msgid "invalid_password"
+msgstr "The password you entered was not valid."
+
+#: login.php:74
+msgid "check_phone_or_password"
+msgstr "Please check your phone or password again."
+
+#: login.php:77
+msgid "something_went_wrong"
+msgstr "Oops! Something went wrong. Please try again later."
+
+#: login.php:92
+msgid "login_header"
+msgstr "Login"
+
+#: login.php:110
+msgid "phone_number"
+msgstr "Phone number"
+
+#: login.php:121
+msgid "password"
+msgstr "Password"
+
+#: login.php:131
+msgid "login_button"
+msgstr "Login"
+
+#  </login.php>
+
+#  <header.php>
+#: header.php:37
+msgid "azora_system"
+msgstr "Azora System"
+
+#: header.php:104
+msgid "user_settings"
+msgstr "Settings"
+
+#: header.php:107
+msgid "user_profile"
+msgstr "Profile"
+
+#: header.php:112
+msgid "user_logout"
+msgstr "Logout"
+
+#: header.php:138
+msgid "menu_dashboard"
+msgstr "Dashboard"
+
+#: header.php:162
+msgid "menu_sales"
+msgstr "Sales"
+
+#: header.php:208
+msgid "menu_category"
+msgstr "Category"
+
+#: header.php:220
+msgid "menu_purchase"
+msgstr "Purchase"
+
+#: header.php:226
+msgid "menu_expense"
+msgstr "Expense"
+
+#: header.php:248
+msgid "menu_services"
+msgstr "Service"
+
+#: header.php:180
+msgid "menu_inventory"
+msgstr "Inventory"
+
+#: header.php:186
+msgid "menu_transaction"
+msgstr "Transaction"
+
+#: header.php:197
+msgid "menu_people"
+msgstr "People"
+
+#: header.php:203
+msgid "menu_users"
+msgstr "Users"
+
+#: header.php:209
+msgid "menu_customers"
+msgstr "Customers"
+
+#: header.php:215
+msgid "menu_suppliers"
+msgstr "Suppliers"
+
+#: header.php:223
+msgid "menu_reports"
+msgstr "Reports"
+
+#: header.php:234
+msgid "menu_settings"
+msgstr "Settings"
+
+#: header.php:240
+msgid "menu_generel"
+msgstr "Generel"
+
+#: header.php:252
+msgid "menu_about"
+msgstr "About"
+
+#: header.php:258
+msgid "menu_docs"
+msgstr "Documents"
+
+#  </header.php>
+
+#  <profile.php>
+
+#: profile.php:51
+msgid "basic_information_header"
+msgstr "Basic Information"
+
+#: profile.php:76
+msgid "admin"
+msgstr "Admin"
+
+#: profile.php:85
+#: profile.php:137
+msgid "full_name"
+msgstr "Full name"
+
+#: profile.php:96
+#: profile.php:168
+msgid "profile_phone_number"
+msgstr "Phone number"
+
+#: profile.php:99
+#: profile.php:88
+msgid "edit"
+msgstr "Edit"
+
+#: profile.php:106
+msgid "profile_password"
+msgstr "Password"
+
+#: profile.php:109
+msgid "reset"
+msgstr "Reset"
+
+#: profile.php:128
+msgid "edit_full_name"
+msgstr "Edit full name"
+
+#: profile.php:142
+#: profile.php:175
+#: profile.php:215
+msgid "close"
+msgstr "Close"
+
+#: profile.php:143
+#: profile.php:176
+#: profile.php:216
+msgid "save_changes"
+msgstr "Save Changes"
+
+#: profile.php:159
+msgid "edit_phone_number"
+msgstr "Edit phone number"
+
+#: profile.php:191
+msgid "edit_password"
+msgstr "Edit password"
+
+#: profile.php:200
+msgid "current_password"
+msgstr "Current password"
+
+#: profile.php:355
+msgid "profile_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: profile.php:358
+msgid "profile_your_avater"
+msgstr "Your Avatar"
+
+#: profile.php:358
+msgid "profile_change_image"
+msgstr "Change Image"
+
+#  </profile.php>
+
+#  <dashboard.php>
+
+#: dashboard.php:10
+msgid "total_sales"
+msgstr "Total sales"
+
+#: dashboard.php:11
+msgid "daily_sales"
+msgstr "Daily sales"
+
+#: dashboard.php:22
+msgid "monthly_sales"
+msgstr "Monthly sales"
+
+#: dashboard.php:33
+msgid "yearly_sales"
+msgstr "Yearly sales"
+
+#: dashboard.php:47
+msgid "sales_vs_purchase"
+msgstr "Sales VS Purchase"
+
+#: dashboard.php:50
+#: dashboard.php:275
+msgid "daily"
+msgstr "Daily"
+
+#: dashboard.php:60
+msgid "stock_value"
+msgstr "Stock value"
+
+#: dashboard.php:71
+msgid "recent_bills"
+msgstr "Recent Expense"
+
+#: dashboard.php:75
+msgid "dashboard_bills_no"
+msgstr "Bills.No"
+
+#: dashboard.php:76
+#: dashboard.php:112
+#: dashboard.php:156
+msgid "dashboard_total"
+msgstr "Total"
+
+#: dashboard.php:77
+#: dashboard.php:113
+msgid "dashboard_type"
+msgstr "Type"
+
+#: dashboard.php:107
+msgid "dashboard_recent_transaction"
+msgstr "Recent Trasnaction"
+
+#: dashboard.php:111
+msgid "dashboard_invoice_no"
+msgstr "Invoice.No"
+
+#: dashboard.php:150
+msgid "dashboard_top_products_of_today"
+msgstr "Top products of today"
+
+#: dashboard.php:155
+msgid "dashboard_product"
+msgstr "Product"
+
+#: dashboard.php:157
+msgid "dashboard_availability"
+msgstr "Availability"
+
+#: dashboard.php:187
+msgid "dashboard_out_of_stock"
+msgstr "Out of stock"
+
+#: dashboard.php:189
+msgid "dashboard_in_stock"
+msgstr "In stock"
+
+#: dashboard.php:340
+msgid "dashboard_sales"
+msgstr "Sales"
+
+#: dashboard.php:340
+msgid "dashboard_purchase"
+msgstr "Purchase"
+
+#: dashboard.php:275
+msgid "monthly"
+msgstr "Monthly"
+
+#: dashboard.php:275
+msgid "yearly"
+msgstr "Yearly"
+
+#  </dashboard.php>
+
+#  <sales.php>
+
+
+#: sales.php:21
+msgid "Page_Title_sales"
+msgstr "Sales"
+
+#: sales.php:26
+msgid "sales_search_by_customer"
+msgstr "Search by customer name"
+
+#: sales.php:43
+msgid "sales_loading"
+msgstr "Loading..."
+
+#: sales.php:79
+msgid "sales_invoice_no"
+msgstr "Invoice.NO"
+
+#: sales.php:80
+msgid "sales_date"
+msgstr "Date"
+
+#: sales.php:81
+msgid "sales_total"
+msgstr "Total"
+
+#: sales.php:82
+msgid "sales_paid"
+msgstr "Paid"
+
+#: sales.php:83
+msgid "sales_customer"
+msgstr "Customer"
+
+#: sales.php:84
+msgid "sales_user"
+msgstr "User"
+
+#: sales.php:99
+msgid "sales_Type_Of_Transaction"
+msgstr "Transaction Type "
+
+#: sales.php:111
+msgid "sales_action"
+msgstr "Action"
+
+#: sales.php:114
+msgid "sales_view_details"
+msgstr "View Details"
+
+#: sales.php:115
+msgid "sales_delete"
+msgstr "Delete"
+
+#: sales.php:141
+msgid "sales_delete_alert_message"
+msgstr "Are you sure you want to Delete ?"
+
+#: sales.php:145
+msgid "sales_cancel"
+msgstr "Cancel"
+
+#: sales.php:165
+msgid "sales_error"
+msgstr "Error..."
+
+
+#: sales.php:130
+msgid "sale_transaction"
+msgstr "Sale"
+
+#: sales.php:130
+msgid "refund_transaction"
+msgstr "Refund"
+
+#  </sales.php>
+
+#  <sale_bill.php>
+
+#: sale_bill.php:28
+msgid "sale_bill_sale"
+msgstr "Sale"
+
+#: sale_bill.php:29
+msgid "sale_bill_sale_details"
+msgstr "Sale Details"
+
+#: sale_bill.php:74
+msgid "sale_bill_invoice"
+msgstr "Sales Invoice"
+
+#: sale_bill.php:78
+msgid "refund_bill_invoice"
+msgstr "Refund Invoice"
+
+#: sale_bill.php:42
+msgid "sale_bill_user_name"
+msgstr "User Name:"
+
+#: sale_bill.php:44
+msgid "sale_bill_invoice_to"
+msgstr "Invoice to:"
+
+#: sale_bill.php:50
+msgid "sale_bill_date"
+msgstr "Date:"
+
+#: sale_bill.php:51
+msgid "sale_bill_status"
+msgstr "Status:"
+
+#: sale_bill.php:52
+msgid "sale_bill_bill_no"
+msgstr "Bill NO:"
+
+#: sale_bill.php:61
+msgid "sale_bill_product"
+msgstr "Product"
+
+#: sale_bill.php:63
+msgid "sale_bill_quantity"
+msgstr "Quantity"
+
+#: sale_bill.php:64
+msgid "sale_bill_price"
+msgstr "Price"
+
+#: sale_bill.php:65
+msgid "sale_bill_total"
+msgstr "Total"
+
+#: sale_bill.php:66
+msgid "sale_bill_discount"
+msgstr "Discount"
+
+#: sale_bill.php:115
+msgid "sale_bill_sub_total"
+msgstr "Sub-total:"
+
+#: sale_bill.php:116
+msgid "sale_bill_total-discount"
+msgstr "Discount:"
+
+#: sale_bill.php:117
+msgid "sale_bill_total-tax"
+msgstr "Tax:"
+
+#: sale_bill.php:142
+msgid "sale_bill_paid"
+msgstr "Paid"
+
+#: sale_bill.php:124
+msgid "sale_bill_partially_paid"
+msgstr "Partially Paid"
+
+#: sale_bill.php:133
+msgid "sale_bill_not_paid"
+msgstr "Not Paid"
+
+#: sale_bill.php:151
+msgid "sale_bill_print"
+msgstr "Print"
+
+#: sale_bill.php:152
+msgid "sale_bill_cancel"
+msgstr "Cancel"
+
+#  </sale_bill.php>
+
+#  <inventory.php>
+
+#: inventory.php:10
+msgid "Page_Title_Inventory"
+msgstr "Inventory"
+
+#: inventory.php:27
+msgid "inventory_area_edit"
+msgstr "Edit"
+
+#: inventory.php:28
+msgid "inventory_area_remove"
+msgstr "Remove"
+
+#: inventory.php:40
+msgid "inventory_area_add"
+msgstr "Add a new area"
+
+#: inventory.php:51
+msgid "inventory_area_add_to_inventory"
+msgstr "Add a new area to your inventory"
+
+#: inventory.php:56
+msgid "inventory_area_add_name_of_area"
+msgstr "Name of the area"
+
+#: inventory.php:59
+msgid "inventory_area_add_location_of_area"
+msgstr "Location of the area"
+
+#: inventory.php:62
+msgid "inventory_area_add_capacity_of_area"
+msgstr "Capacity of the area"
+
+#: inventory.php:65
+msgid "inventory_area_add_size_of_area"
+msgstr "Size of the area"
+
+#: inventory.php:68
+msgid "inventory_area_add_type_of_area"
+msgstr "Type of the area"
+
+#: inventory.php:71
+msgid "inventory_area_add_Add"
+msgstr "Add"
+
+#: inventory.php:75
+#: inventory.php:89
+msgid "inventory_area_add_close"
+msgstr "Close"
+
+#: inventory.php:71
+msgid "inventory_area_edit_area"
+msgstr "Edit Area"
+
+#: inventory.php:110
+msgid "inventory_area_add_name_laert"
+msgstr "Name is required"
+
+#: inventory.php:172
+msgid "inventory_area_delete_alert_message"
+msgstr "Are you sure you want to Delete ?"
+
+#: inventory.php:176
+msgid "inventory_area_delete_alert_cancel"
+msgstr "Cancel"
+
+#: inventory.php:183
+msgid "inventory_area_delete_alert_delete"
+msgstr "Delete"
+
+#: inventory.php:197
+msgid "inventory_area_delete_alert_error"
+msgstr "Something went wrong..."
+
+#  </inventory.php>
+
+#  <warehouse_edit.php>
+
+#: warehouse_edit.php:27
+msgid "warehouse_edit_add_name_of_area"
+msgstr "Name of the area"
+
+#: warehouse_edit.php:31
+msgid "warehouse_edit_add_location_of_area"
+msgstr "Location of the area"
+
+#: warehouse_edit.php:35
+msgid "warehouse_edit_add_capacity_of_area"
+msgstr "Capacity of the area"
+
+#: warehouse_edit.php:39
+msgid "warehouse_edit_add_size_of_area"
+msgstr "Size of the area"
+
+#: warehouse_edit.php:43
+msgid "warehouse_edit_add_type_of_area"
+msgstr "Type of the area"
+
+#: warehouse_edit.php:48
+msgid "warehouse_edit_add_update"
+msgstr "Update"
+
+#: warehouse_edit.php:49
+msgid "warehouse_edit_add_close"
+msgstr "Close"
+
+#  </warehouse_edit.php>
+
+#  <inventory_edit.php>
+
+#: inventory_edit.php:28
+msgid "inventory_edit_name"
+msgstr "Name :"
+
+#: inventory_edit.php:32
+msgid "inventory_edit_quantity"
+msgstr "Quantity :"
+
+#: inventory_edit.php:36
+msgid "inventory_edit_change_area"
+msgstr "Change area :"
+
+#: inventory_edit.php:51
+msgid "inventory_edit_expiry_date"
+msgstr "Expiry date :"
+
+#: inventory_edit.php:56
+msgid "inventory_edit_update"
+msgstr "Update"
+
+#: inventory_edit.php:57
+msgid "inventory_edit_close"
+msgstr "Close"
+
+#  </inventory_edit.php>
+
+#  <inventory_fetch.php>
+
+#: inventory_fetch.php:16
+msgid "inventory_fetch_name"
+msgstr "Name"
+
+#: inventory_fetch.php:17
+msgid "inventory_fetch_category"
+msgstr "Category"
+
+#: inventory_fetch.php:18
+msgid "inventory_fetch_sub_category"
+msgstr "SubCategory"
+
+#: inventory_fetch.php:19
+msgid "inventory_fetch_quantity"
+msgstr "Quantity"
+
+#: inventory_fetch.php:20
+msgid "inventory_fetch_total_cost"
+msgstr "Total cost"
+
+#: inventory_fetch.php:21
+msgid "inventory_fetch_expiray_date"
+msgstr "Expiry date"
+
+#: inventory_fetch.php:22
+msgid "inventory_fetch_activation_status"
+msgstr "Activation status"
+
+#: inventory_fetch.php:25
+msgid "inventory_fetch_action"
+msgstr "Action"
+
+#: inventory_fetch.php:32
+msgid "inventory_fetch_show_ruined_and_expired"
+msgstr "Show ruined and expired"
+
+#: inventory_fetch.php:33
+msgid "inventory_fetch_show_all_detalis"
+msgstr "Show all details"
+
+#: inventory_fetch.php:41
+msgid "inventory_fetch_nothing_here"
+msgstr "Nothing here"
+
+#: inventory_fetch.php:41
+msgid "inventory_fetch_close"
+msgstr "Close"
+
+#  </inventory_fetch.php>
+
+#  </transaction.php>
+
+#: transaction.php:22
+msgid "Page_Title_Transaction"
+msgstr "Transactions"
+
+#: transaction.php:26
+msgid "transaction_search_by_user_name"
+msgstr "Search by username"
+
+#: transaction.php:42
+msgid "transaction_loading"
+msgstr "Loading..."
+
+#: transaction.php:85
+msgid "transaction_transaction_no"
+msgstr "Transaction.NO"
+
+#: transaction.php:86
+msgid "transaction_date"
+msgstr "Date"
+
+#: transaction.php:87
+msgid "transaction_user"
+msgstr "User"
+
+#: transaction.php:88
+msgid "transaction_total"
+msgstr "Total"
+
+#: transaction.php:89
+msgid "transaction_type"
+msgstr "Type"
+
+#: transaction.php:118
+msgid "transaction_view_details"
+msgstr "View Details"
+
+#  </transaction.php>
+
+#  <support.php>
+
+#: support.php:11
+#: support.php:106
+msgid "support_phone_number"
+msgstr "Phone number"
+
+#: support.php:20
+msgid "support_email"
+msgstr "Email"
+
+#: support.php:30
+msgid "support_website"
+msgstr "Website"
+
+#: support.php:39
+#: support.php:80
+msgid "support_social_media"
+msgstr "Social Media"
+
+#: support.php:49
+msgid "support_faq"
+msgstr "FAQ"
+
+#: support.php:60
+msgid "support_azora_emails"
+msgstr "Azora Email"
+
+#: support.php:69
+#: support.php:95
+msgid "support_close"
+msgstr "Close"
+
+#  </support.php>
+
+#  <about.php>
+
+#: about.php:14
+msgid "about_azora_system"
+msgstr "Azora POS System"
+
+#: about.php:16
+msgid "about_description"
+msgstr "Azora is Yemen’s first POS system built on Android. Azora has features that cover all your needs as a small business owner. It helps you manage your store inventory, sales, expenses and customer debts. In addition, Azora stores your business data online so you can access it anytime, anywhere."
+
+#: about.php:18
+msgid "about_developed"
+msgstr "Developed by: Azora"
+
+#: about.php:42
+msgid "about_contact"
+msgstr "Contact us"
+
+#: about.php:57
+msgid "about_follow"
+msgstr "Follow us"
+
+#  </about.php>
+
+#  <general_settings.php>
+
+#: general_settings.php:61
+msgid "general_settings_enter_shop_name_error"
+msgstr "Please enter a Shop Name."
+
+#: general_settings.php:65
+msgid "general_settings_enter_address_error"
+msgstr "Please enter the address."
+
+#: general_settings.php:69
+msgid "general_settings_enter_phone_error"
+msgstr "Please enter a phone."
+
+#: general_settings.php:83
+msgid "general_settings_phone_already_taken"
+msgstr "This phone is already taken."
+
+#: general_settings.php:89
+msgid "general_settings_something_went_wrong_error"
+msgstr "Oops! Something went wrong. Please try again later."
+
+#: general_settings.php:104
+msgid "general_settings_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+#: general_settings.php:129
+msgid "general_settings_business_information"
+msgstr "Business Information"
+
+#: general_settings.php:149
+msgid "general_settings_shop_name"
+msgstr "Shop name"
+
+#: general_settings.php:153
+msgid "general_settings_phone"
+msgstr "Phone"
+
+#: general_settings.php:158
+msgid "general_settings_address"
+msgstr "Address"
+
+#: general_settings.php:164
+msgid "general_settings_save"
+msgstr "Save"
+
+#: general_settings.php:165
+msgid "general_settings_cancel"
+msgstr "Cancel"
+
+#: general_settings.php:180
+msgid "general_settings_language"
+msgstr "Language"
+
+#: general_settings.php:169
+msgid "general_settings_choose"
+msgstr "Choose"
+
+#: general_settings.php:170
+msgid "general_settings_english"
+msgstr "English"
+
+#: general_settings.php:171
+msgid "general_settings_arabic"
+msgstr "Arabic"
+
+#: general_settings.php:208
+msgid "general_settings_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: general_settings.php:208
+msgid "general_settings_your_avater"
+msgstr "Your Avatar"
+
+#: general_settings.php:208
+msgid "general_settings_change_image"
+msgstr "Change Image"
+
+#  </general_settings.php>
+
+#  <reports.php>
+
+#: reports.php:9
+msgid "Page_Title_Reports"
+msgstr "Reports"
+
+#: reports.php:12
+#: reports.php:75
+#: reports.php:84
+msgid "reports_product"
+msgstr "Product"
+
+#: reports.php:81
+#: reports.php:92
+#: reports.php:98
+msgid "reports_service"
+msgstr "Service"
+
+#: reports.php:19
+#: reports.php:130
+msgid "reports_purchase"
+msgstr "Purchase"
+
+#: reports.php:26
+#: reports.php:170
+msgid "reports_sales"
+msgstr "Sales"
+
+#: reports.php:33
+#: reports.php:211
+msgid "reports_stock"
+msgstr "Stock"
+
+#: reports.php:40
+#: reports.php:252
+#: reports.php:262
+msgid "reports_category"
+msgstr "Category"
+
+#: reports.php:47
+#: reports.php:322
+#: reports.php:312
+msgid "reports_sub_category"
+msgstr "SubCategory"
+
+#: reports.php:55
+#: reports.php:371
+msgid "reports_profit"
+msgstr "Profit"
+
+#: reports.php:62
+#: reports.php:409
+#: reports.php:419
+msgid "reports_supplier"
+msgstr "Supplier"
+
+#: reports.php:72
+msgid "cash_report"
+msgstr "Cash"
+
+#: reports.php:698
+msgid "type_of_cash"
+msgstr "Type Of The Report"
+
+#: reports.php:762
+msgid "type_of_cash_detailed"
+msgstr "Detailed"
+
+#: reports.php:768
+msgid "type_of_cash_brief"
+msgstr "Brief"
+
+#: reports.php:130
+#: reports.php:194
+#: reports.php:259
+#: reports.php:338
+#: reports.php:445
+#: reports.php:674
+msgid "reports_choose_user"
+msgstr "User"
+
+#: reports.php:133
+#: reports.php:198
+#: reports.php:262
+#: reports.php:284
+#: reports.php:341
+#: reports.php:430
+#: reports.php:448
+#: reports.php:677
+#: reports.php:747
+msgid "reports_all_user"
+msgstr "All"
+
+#: reports.php:103
+#: reports.php:141
+#: reports.php:181
+#: reports.php:222
+#: reports.php:282
+#: reports.php:342
+#: reports.php:382
+#: reports.php:440
+msgid "reports_from"
+msgstr "From"
+
+#: reports.php:109
+#: reports.php:148
+#: reports.php:187
+#: reports.php:230
+#: reports.php:289
+#: reports.php:349
+#: reports.php:388
+#: reports.php:448
+msgid "reports_to"
+msgstr "To"
+
+#: reports.php:116
+#: reports.php:156
+#: reports.php:195
+#: reports.php:236
+#: reports.php:297
+#: reports.php:356
+#: reports.php:394
+#: reports.php:455
+msgid "reports_generate_report"
+msgstr "Generate Report"
+
+#: reports.php:117
+#: reports.php:157
+#: reports.php:196
+#: reports.php:237
+#: reports.php:298
+#: reports.php:357
+#: reports.php:395
+#: reports.php:456
+msgid "reports_close"
+msgstr "Close"
+
+#: reports.php:69
+#: reports.php:477
+msgid "reports_debt"
+msgstr "Customers"
+
+#  </reports.php>
+
+#  <supplier_edit.php>
+
+#: supplier_edit.php:20
+msgid "supplier_edit_suppliers"
+msgstr "Suppliers"
+
+#: supplier_edit.php:21
+#: supplier_edit.php:84
+msgid "supplier_edit_edit_suppliers"
+msgstr "Edit Suppliers"
+
+#: supplier_edit.php:69
+msgid "supplier_edit_something_went_wrong"
+msgstr "Sorry Something went wrong."
+
+#: supplier_edit.php:72
+msgid "supplier_edit_updated_successfully"
+msgstr "Supplier updated successfully."
+
+#: supplier_edit.php:95
+msgid "supplier_edit_first_name"
+msgstr "First name"
+
+#: supplier_edit.php:103
+msgid "supplier_edit_last_name"
+msgstr "Last name"
+
+#: supplier_edit.php:111
+msgid "supplier_edit_company_name"
+msgstr "Company name"
+
+#: supplier_edit.php:120
+msgid "supplier_edit_email"
+msgstr "Email"
+
+#: supplier_edit.php:128
+msgid "supplier_edit_phone_number"
+msgstr "Phone number"
+
+#: supplier_edit.php:136
+msgid "supplier_edit_address"
+msgstr "Address"
+
+#: supplier_edit.php:155
+msgid "supplier_edit_save"
+msgstr "Save"
+
+#: supplier_edit.php:156
+msgid "supplier_edit_cancel"
+msgstr "Cancel"
+
+#: supplier_edit.php:180
+msgid "supplier_edit_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: supplier_edit.php:183
+msgid "supplier_edit_update_image"
+msgstr "Update image"
+
+#: supplier_edit.php:183
+msgid "supplier_edit_your_avater"
+msgstr "Your Avatar"
+
+#  </supplier_edit.php>
+
+#  <supplier_details.php>
+
+#: supplier_details.php:27
+msgid "supplier_details_suppliers"
+msgstr "Suppliers"
+
+#: supplier_details.php:28
+msgid "supplier_details_suppliers_details"
+msgstr "Supplier Details"
+
+#: supplier_details.php:62
+msgid "supplier_details_purchase_history"
+msgstr "Purchase History"
+
+#: supplier_details.php:32
+msgid "supplier_details_basic_information"
+msgstr "Basic Information"
+
+#: supplier_details.php:45
+msgid "supplier_details_full_name"
+msgstr "Full name : "
+
+#: supplier_details.php:46
+msgid "supplier_details_phone_number"
+msgstr "Phone number : "
+
+#: supplier_details.php:47
+msgid "supplier_details_address"
+msgstr "Address : "
+
+#: supplier_details.php:48
+msgid "supplier_details_company"
+msgstr "Company : "
+
+#: supplier_details.php:78
+msgid "supplier_details_Debt_information"
+msgstr "Debt Details"
+
+#  </supplier_details.php>
+
+#  <supplier_add.php>
+
+#: supplier_add.php:17
+msgid "supplier_add_please_enter_first_name"
+msgstr "Please enter the first name."
+
+#: supplier_add.php:35
+#: supplier_add.php:64
+msgid "supplier_add_something_went_wrong_error"
+msgstr "Oops! Something went wrong. Please try again later."
+
+#: supplier_add.php:46
+msgid "supplier_add_please_enter_last_name"
+msgstr "Please enter the last name."
+
+#: supplier_add.php:109
+msgid "supplier_add_successfully_added"
+msgstr "Successfully Added"
+
+#: supplier_add.php:111
+msgid "supplier_add_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+#: supplier_add.php:127
+msgid "supplier_add_suppliers"
+msgstr "Suppliers"
+
+#: supplier_add.php:128
+msgid "supplier_add_new_suppliers"
+msgstr "Add New Suppliers"
+
+#: supplier_add.php:142
+msgid "supplier_add_first_name"
+msgstr "First name"
+
+#: supplier_add.php:150
+msgid "supplier_add_last_name"
+msgstr "Last name"
+
+#: supplier_add.php:158
+msgid "supplier_add_company_name"
+msgstr "Company name"
+
+#: supplier_add.php:167
+msgid "supplier_add_email"
+msgstr "Email"
+
+#: supplier_add.php:175
+msgid "supplier_add_phone_number"
+msgstr "Phone number"
+
+#: supplier_add.php:183
+msgid "supplier_add_address"
+msgstr "Address"
+
+#: supplier_add.php:202
+msgid "supplier_add_save"
+msgstr "Save"
+
+#: supplier_add.php:203
+msgid "supplier_add_cancel"
+msgstr "Cancel"
+
+#: supplier_add.php:225
+msgid "supplier_add_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: supplier_add.php:228
+msgid "supplier_add_your_avater"
+msgstr "Your Avatar"
+
+#: supplier_add.php:228
+msgid "supplier_add_change_image"
+msgstr "Change Image"
+
+#  </supplier_add.php>
+
+#  <suppliers.php>
+
+#: suppliers.php:41
+msgid "suppliers_add_new_supplier"
+msgstr "Add New Supplier"
+
+#: suppliers.php:47
+msgid "suppliers_loading"
+msgstr "Loading..."
+
+#: suppliers.php:80
+msgid "suppliers_users"
+msgstr "Suppliers"
+
+#: suppliers.php:81
+msgid "suppliers_role"
+msgstr "Role"
+
+#: suppliers.php:82
+#: suppliers.php:101
+msgid "suppliers_action"
+msgstr "Action"
+
+#: suppliers.php:98
+msgid "suppliers_admin"
+msgstr "Admin"
+
+#: suppliers.php:104
+msgid "suppliers_view_details"
+msgstr "View Details"
+
+#: suppliers.php:105
+msgid "suppliers_edit"
+msgstr "Edit"
+
+#: suppliers.php:106
+#: suppliers.php:139
+msgid "suppliers_delete"
+msgstr "Delete"
+
+#: suppliers.php:152
+msgid "suppliers_error"
+msgstr "ُError..."
+
+#: suppliers.php:128
+msgid "suppliers_delete_alert_message"
+msgstr "Are you sure you want to Delete ?"
+
+#: suppliers.php:132
+msgid "suppliers_cancel"
+msgstr "Cancel"
+
+#  </suppliers.php>
+
+#  <customer_edit.php>
+
+#: customer_edit.php:20
+msgid "customer_edit_customers"
+msgstr "Customers"
+
+#: customer_edit.php:21
+#: customer_edit.php:84
+msgid "customer_edit_customers_edit"
+msgstr "Edit customer"
+
+#: customer_edit.php:69
+msgid "customer_edit_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+#: customer_edit.php:72
+msgid "customer_edit_updated_successfully"
+msgstr "Customer Updated Successfully."
+
+#: customer_edit.php:95
+msgid "customer_edit_first_name"
+msgstr "First name"
+
+#: customer_edit.php:103
+msgid "customer_edit_last_name"
+msgstr "Last name"
+
+#: customer_edit.php:111
+msgid "customer_edit_company_name"
+msgstr "Company name"
+
+#: customer_edit.php:121
+msgid "customer_edit_email"
+msgstr "Email"
+
+#: customer_edit.php:128
+msgid "customer_edit_phone_number"
+msgstr "Phone number"
+
+#: customer_edit.php:136
+msgid "customer_edit_address"
+msgstr "Address"
+
+#: customer_edit.php:155
+msgid "customer_edit_save"
+msgstr "Save"
+
+#: customer_edit.php:156
+msgid "customer_edit_cancel"
+msgstr "Cancel"
+
+#: customer_edit.php:180
+msgid "customer_edit_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: customer_edit.php:183
+msgid "customer_edit_your_avater"
+msgstr "Your Avatar"
+
+#: customer_edit.php:183
+msgid "customer_edit_change_image"
+msgstr "Change Image"
+
+#  </customer_edit.php>
+
+#  <customer_details.php>
+
+#: customer_details.php:28
+msgid "customer_details_customers"
+msgstr "Customers"
+
+#: customer_details.php:29
+msgid "customer_details_customers_details"
+msgstr "Customer Details"
+
+#: customer_details.php:33
+msgid "customer_details_basic_information"
+msgstr "Basic Information"
+
+#: customer_details.php:46
+msgid "customer_details_full_name"
+msgstr "Full Name : "
+
+#: customer_details.php:47
+msgid "customer_details_phone_number"
+msgstr "Phone Number : "
+
+#: customer_details.php:48
+msgid "customer_details_email"
+msgstr "Email  : "
+
+#: customer_details.php:49
+msgid "customer_details_address"
+msgstr "Address  :"
+
+#: customer_details.php:60
+msgid "customer_details_sales_history"
+msgstr "Sales history"
+
+#: customer_details.php:64
+msgid "customer_details_invoice"
+msgstr "Invoice.NO"
+
+#: customer_details.php:65
+msgid "customer_details_date"
+msgstr "Date"
+
+#: customer_details.php:66
+msgid "customer_details_total"
+msgstr "Total"
+
+#: customer_details.php:67
+#: customer_details.php:88
+msgid "customer_details_paid"
+msgstr "Paid"
+
+#: customer_details.php:68
+msgid "customer_details_status"
+msgstr "Status"
+
+#: customer_details.php:88
+msgid "customer_details_loan"
+msgstr "Loan"
+
+#: customer_details.php:89
+msgid "customer_details_view_invoice"
+msgstr "View invoice"
+
+#: customer_details.php:134
+msgid "customer_details_total_debt"
+msgstr "Total Debt"
+
+#: customer_details.php:137
+msgid "customer_details_total_paid"
+msgstr "Paid"
+
+#: customer_details.php:140
+msgid "customer_details_not_paid"
+msgstr "Unpaid"
+
+#: customer_details.php:156
+msgid "customer_details_paid_debts"
+msgstr "paid debts"
+
+#: customer_details.php:244
+msgid "customer_details_Type_Of_Transaction"
+msgstr "Type of Transaction"
+
+#: customer_details.php:263
+msgid "customer_details_sale_Transaction"
+msgstr "Sale"
+
+#: customer_details.php:263
+msgid "customer_details_refund_Transaction"
+msgstr "Refund"
+
+#  </customer_details.php>
+
+#  <customer_add.php>
+
+#: customer_add.php:16
+msgid "customer_add_please_enter_first_name"
+msgstr "Please enter the first name."
+
+#: customer_add.php:34
+#: customer_add.php:63
+msgid "customer_add_something_went_wrong_error"
+msgstr "Oops! Something went wrong. Please try again later."
+
+#: customer_add.php:46
+msgid "customer_add_please_enter_last_name"
+msgstr "Please enter the last name."
+
+#: customer_add.php:109
+msgid "customer_add_successfully_added"
+msgstr "Successfully Added"
+
+#: customer_add.php:111
+msgid "customer_add_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+#: customer_add.php:127
+msgid "customer_add_customers"
+msgstr "customers"
+
+#: customer_add.php:125
+#: customer_add.php:130
+msgid "customer_add_new_customers"
+msgstr "Add New customer"
+
+#: customer_add.php:139
+msgid "customer_add_first_name"
+msgstr "First name"
+
+#: customer_add.php:147
+msgid "customer_add_last_name"
+msgstr "Last name"
+
+#: customer_add.php:155
+msgid "customer_add_company_name"
+msgstr "Company name"
+
+#: customer_add.php:163
+msgid "customer_add_email"
+msgstr "Email"
+
+#: customer_add.php:171
+msgid "customer_add_phone_number"
+msgstr "Phone number"
+
+#: customer_add.php:179
+msgid "customer_add_address"
+msgstr "Address"
+
+#: customer_add.php:199
+msgid "customer_add_save"
+msgstr "Save"
+
+#: customer_add.php:200
+msgid "customer_add_cancel"
+msgstr "Cancel"
+
+#: customer_add.php:225
+msgid "customer_add_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: customer_add.php:228
+msgid "customer_add_your_avater"
+msgstr "Your Avatar"
+
+#: customer_add.php:228
+msgid "customer_add_change_image"
+msgstr "Change Image"
+
+#  </customer_add.php>
+
+#  <customers.php>
+
+#: customers.php:21
+msgid "Page_Title_Customers"
+msgstr "Customers"
+
+#: customers.php:26
+msgid "customers_search_by_customer_name"
+msgstr "Search by customer name"
+
+#: customers.php:42
+msgid "customers_add_new_customer"
+msgstr "Add New Customer"
+
+#: customers.php:49
+msgid "customers_loading"
+msgstr "Loading..."
+
+#: customers.php:80
+msgid "customers_customers"
+msgstr "Customers"
+
+#: customers.php:81
+msgid "customers_phone_number"
+msgstr "Phone number"
+
+#: customers.php:102
+msgid "customers_action"
+msgstr "Action"
+
+#: customers.php:105
+msgid "customers_view_details"
+msgstr "View Details"
+
+#: customers.php:106
+msgid "customers_edit"
+msgstr "Edit"
+
+#: customers.php:107
+#: customers.php:164
+msgid "customers_delete"
+msgstr "Delete"
+
+#: customers.php:153
+msgid "customers_delete_alert_message"
+msgstr "Are you sure you want to Delete ?"
+
+#: customers.php:157
+msgid "customers_cancel"
+msgstr "Cancel"
+
+#  </customers.php>
+
+#  <user_edit.php>
+
+#: user_edit.php:18
+msgid "user_edit_users"
+msgstr "Users"
+
+#: user_edit.php:18
+#: user_edit.php:83
+msgid "user_edit_edit_users"
+msgstr "Edit User"
+
+#: user_edit.php:63
+msgid "user_edit_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+#: user_edit.php:67
+msgid "user_edit_successfully_added"
+msgstr "User Successfully Added"
+
+#: user_edit.php:93
+msgid "user_edit_full_name"
+msgstr "Full Name"
+
+#: user_edit.php:103
+msgid "user_edit_phone_number"
+msgstr "Phone Number"
+
+#: user_edit.php:113
+msgid "user_edit_email"
+msgstr "Email"
+
+#: user_edit.php:123
+msgid "user_edit_password"
+msgstr "Password"
+
+#: user_edit.php:130
+msgid "user_edit_role"
+msgstr "Role"
+
+#: user_edit.php:133
+msgid "user_edit_cashier"
+msgstr "Cashier"
+
+#: user_edit.php:134
+msgid "user_edit_admin"
+msgstr "Admin"
+
+#: user_edit.php:401
+msgid "user_edit_save"
+msgstr "Save"
+
+#: user_edit.php:402
+msgid "user_edit_cancel"
+msgstr "Cancel"
+
+#: user_edit.php:423
+msgid "user_edit_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: user_edit.php:426
+msgid "user_edit_your_avater"
+msgstr "Your Avatar"
+
+#: user_edit.php:426
+msgid "user_edit_change_image"
+msgstr "Change Image"
+
+#  </user_edit.php>
+
+#  <user_details.php>
+
+#: user_details.php:16
+msgid "user_details_users"
+msgstr "Users"
+
+#: user_details.php:17
+msgid "user_details_user_details"
+msgstr "User Details"
+
+#: user_details.php:29
+msgid "user_details_details"
+msgstr "Details"
+
+#: user_details.php:41
+msgid "user_details_user_name"
+msgstr "User name : "
+
+#: user_details.php:42
+msgid "user_details_phone_number"
+msgstr "Phone number : "
+
+#: user_details.php:43
+msgid "user_details_email"
+msgstr "Email : "
+
+#: user_details.php:44
+msgid "user_details_role"
+msgstr "Role : "
+
+#: user_details.php:44
+msgid "user_details_cashier"
+msgstr "Cashier"
+
+#: user_details.php:44
+msgid "user_details_admin"
+msgstr "Admin"
+
+#  </user_details.php>
+
+#  <user_add.php>
+
+#: user_add.php:14
+msgid "user_add_please_enter_full_name"
+msgstr "Please enter a full name."
+
+#: user_add.php:32
+msgid "user_add_full_name_already_taken"
+msgstr "This name is already taken."
+
+#: user_add.php:33
+msgid "user_add_full_name_cehck_field"
+msgstr "Sorry there is a mistake, please check full name field"
+
+#: user_add.php:38
+#: user_add.php:68
+#: user_add.php:97
+msgid "user_add_something_went_wrong_error"
+msgstr "Oops! Something went wrong. Please try again later."
+
+#: user_add.php:49
+msgid "user_add_please_enter_phone_number"
+msgstr "Please enter a phone number."
+
+#: user_add.php:78
+msgid "user_add_please_enter_email"
+msgstr "Please enter an email."
+
+#: user_add.php:91
+msgid "user_add_email_already_taken"
+msgstr "This email is already taken."
+
+#: user_add.php:92
+msgid "user_add_email_cehck_field"
+msgstr "Sorry there is a mistake, please check email field"
+
+#: user_add.php:108
+msgid "user_add_enter_password"
+msgstr "Please enter a password."
+
+#: user_add.php:110
+msgid "user_add_password_length"
+msgstr "Password must have at least 6 characters."
+
+#: user_add.php:63
+msgid "user_add_phone_number_cehck_field"
+msgstr "Sorry there is a mistake, please check phone field"
+
+#: user_add.php:62
+msgid "user_add_phone_number_already_taken"
+msgstr "This phone is already taken."
+
+#: user_add.php:151
+msgid "user_add_successfully_added"
+msgstr "Successfully Added"
+
+#: user_add.php:153
+msgid "user_add_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+#: user_add.php:169
+msgid "user_add_users"
+msgstr "Users"
+
+#: user_add.php:170
+#: user_add.php:175
+msgid "user_add_new_users"
+msgstr "Add New User"
+
+#: user_add.php:182
+msgid "user_add_full_name"
+msgstr "Full name"
+
+#: user_add.php:190
+msgid "user_add_phone_number"
+msgstr "Phone number"
+
+#: user_add.php:198
+msgid "user_add_email"
+msgstr "Email"
+
+#: user_add.php:206
+msgid "user_add_password"
+msgstr "Password"
+
+#: user_add.php:214
+msgid "user_add_role"
+msgstr "Role"
+
+#: user_add.php:217
+msgid "user_add_cashier"
+msgstr "Cashier"
+
+#: user_add.php:218
+msgid "user_add_admin"
+msgstr "Admin"
+
+#: user_add.php:243
+msgid "user_add_save"
+msgstr "Save"
+
+#: user_add.php:402
+msgid "user_add_cancel"
+msgstr "Cancel"
+
+#: user_add.php:264
+msgid "user_add_cancel_or_reset"
+msgstr "Cancel or reset changes"
+
+#: user_add.php:267
+msgid "user_add_your_avater"
+msgstr "Your Avatar"
+
+#: user_add.php:267
+msgid "user_add_upload_image"
+msgstr "Upload Image"
+
+#  </user_add.php>
+
+#  <users.php>
+
+#: users.php:22
+msgid "Page_Title_Users"
+msgstr "Users"
+
+#: users.php:26
+msgid "users_search_by_username"
+msgstr "Search by username"
+
+#: users.php:41
+msgid "users_add_new_user"
+msgstr "Add New User"
+
+#: users.php:49
+msgid "users_loading"
+msgstr "Loading..."
+
+#: users.php:80
+msgid "users_users"
+msgstr "Users"
+
+#: users.php:81
+msgid "users_role"
+msgstr "Role"
+
+#: users.php:82
+#: users.php:99
+msgid "users_action"
+msgstr "Action"
+
+#: users.php:96
+msgid "users_admin"
+msgstr "Admin"
+
+#: users.php:102
+msgid "users_view_details"
+msgstr "View Details"
+
+#: users.php:103
+msgid "users_edit"
+msgstr "Edit"
+
+#: users.php:104
+#: users.php:158
+msgid "users_delete"
+msgstr "Delete"
+
+#: users.php:147
+msgid "users_delete_alert_message"
+msgstr "Are you sure you want to Delete ?"
+
+#: users.php:151
+msgid "users_cancel"
+msgstr "Cancel"
+
+#  </users.php>
+
+#  <Reports>
+
+#  <category.php>
+
+#: category.php:17
+msgid "category_invoice"
+msgstr "Category Invoice"
+
+#: category.php:37
+msgid "category_name"
+msgstr "Name"
+
+#: category.php:37
+msgid "category_total_sales"
+msgstr "Total Sales"
+
+#: category.php:37
+msgid "category_profit"
+msgstr "Profit"
+
+#  </category.php>
+
+#  <product.php>
+
+#: product.php:17
+msgid "product_product_invoice"
+msgstr "Product Invoice"
+
+#: product.php:37
+msgid "product_product"
+msgstr "Product"
+
+#: product.php:37
+msgid "product_purchase"
+msgstr "Purchase"
+
+#: product.php:37
+msgid "product_profit"
+msgstr "Profit"
+
+#  </product.php>
+
+#  <profit.php>
+
+#: product.php:17
+msgid "profit_profit_invoice"
+msgstr "Profit Invoice"
+
+#: product.php:20
+msgid "profit_total_sales"
+msgstr "Total Sales"
+
+#: product.php:21
+msgid "profit_cost_of_sales"
+msgstr "Cost of Sales"
+
+#: product.php:21
+msgid "profit_groos_profit_loss"
+msgstr "Gross Profit/Loss"
+
+#: product.php:21
+msgid "profit_total_expense"
+msgstr "Total Expense"
+
+#: product.php:21
+msgid "profit_net_profit_before_tax"
+msgstr "Net Profit/Loss Before Tax"
+
+#: product.php:21
+msgid "profit_total_tax"
+msgstr "Total Tax"
+
+#: product.php:21
+msgid "profit_net_profit_after_tax"
+msgstr "Net Profit/Loss After Tax"
+
+#  </profit.php>
+
+#  <purchase.php>
+
+#: purchase.php:17
+msgid "purchase_purchase_invoice"
+msgstr "Purchase Invoice"
+
+#: purchase.php:21
+msgid "purchase_reference_no"
+msgstr "Reference No"
+
+#: purchase.php:21
+msgid "purchase_supplier"
+msgstr "Supplier"
+
+#: purchase.php:21
+msgid "purchase_product_name"
+msgstr "Product Name"
+
+#: purchase.php:21
+msgid "purchase_quantity"
+msgstr "Quantity"
+
+#: purchase.php:21
+msgid "purchase_price"
+msgstr "Price"
+
+#: purchase.php:21
+msgid "purchase_date"
+msgstr "Date"
+
+#  </purchase.php>
+
+#  <sales.php>
+
+#: sales.php:17
+msgid "sales_sales_invoice"
+msgstr "Sales Invoice"
+
+#: sales.php:37
+msgid "sales_reference_no"
+msgstr "Reference No"
+
+#: sales.php:37
+msgid "sales_reports_customer"
+msgstr "Customer"
+
+#: sales.php:37
+msgid "sales_product_name"
+msgstr "Product Name"
+
+#: sales.php:37
+msgid "sales_warehouse"
+msgstr "Warehouse"
+
+#: sales.php:37
+msgid "sales_report_date"
+msgstr "Date"
+
+#  </sales.php>
+
+#  <supplier.php>
+
+#: supplier.php:21
+msgid "Page_Title_Suppliers"
+msgstr "Suppliers"
+
+#: supplier.php:26
+msgid "supplier_search_by_supplier_name"
+msgstr "Search by supplier name"
+
+#: supplier.php:37
+msgid "supplier_date"
+msgstr "Date"
+
+#: supplier.php:37
+msgid "supplier_amount_of_purchse"
+msgstr "Amount of Purchase"
+
+#: supplier.php:37
+msgid "supplier_paid"
+msgstr "Paid"
+
+#: supplier.php:37
+msgid "supplier_total_debit"
+msgstr "Total Debit"
+
+#  </supplier.php>
+
+#  <stock.php>
+
+#: stock.php:94
+msgid "stock_stock_value_by_cost_price"
+msgstr "Stock value by cost price"
+
+#: stock.php:94
+msgid "stock_stock_value_by_selling_price"
+msgstr "Stock value by selling price"
+
+#: stock.php:94
+msgid "stock_profit_estimate"
+msgstr "Profit Estimate"
+
+#: stock.php:96
+msgid "stock_report_value"
+msgstr "Stock Value"
+
+#: stock.php:113
+msgid "stock_stock_value_all_products"
+msgstr "Stock Value (All Products)"
+
+#  </stock.php>
+
+#  <Reports>
+
+
+#  <purchase_order.php>
+
+
+#: purchase_order.php:15
+msgid "All_purchase_order"
+msgstr "All purchase order"
+
+#: purchase_order.php:23
+msgid "Page_Title_Purchase"
+msgstr "Purchase"
+
+#: purchase_order.php:18
+msgid "Received_purchase_order"
+msgstr "Received purchase order"
+
+#: purchase_order.php:19
+msgid "Sent_purchase_order"
+msgstr "Sent purchase order"
+
+#: purchase_order.php:20
+msgid "Archived_purchase_order"
+msgstr "Archived purchase order"
+
+#: purchase_order.php:28
+msgid "purchas_order_search_by_user_name"
+msgstr "Search by Supplier Name"
+
+#: purchase_order.php:40
+msgid "add_new_purchase_order"
+msgstr "Add New Purchase Order"
+
+#: purchase_order.php:49
+msgid "purchase_order_Loading"
+msgstr "Loading..."
+
+#: purchase_order.php:86
+msgid "Purchase_order_invoice_no"
+msgstr "Invoice.No"
+
+#: purchase_order.php:87
+msgid "Purchase_order_Date"
+msgstr "Date"
+
+#: purchase_order.php:88
+msgid "Purchase_order_Total"
+msgstr "Total"
+
+#: purchase_order.php:90
+msgid "Purchase_order_Paid"
+msgstr "Paid"
+
+#: purchase_order.php:89
+msgid "Purchase_order_Status"
+msgstr "Purchase order Status"
+
+#: purchase_order.php:90
+msgid "Purchase_order_Supplier"
+msgstr "Supplier"
+
+#: purchase_order.php:91
+msgid "Purchase_order_username"
+msgstr "User Name"
+
+#: purchase_order.php:118
+msgid "Purchase_order_action"
+msgstr "Action"
+
+#: purchase_order.php:121
+msgid "Purchase_order_view_details"
+msgstr "View Details"
+
+#: purchase_order.php:124
+msgid "Purchase_order_Received_Order"
+msgstr "Received Order"
+
+#: purchase_order.php:125
+msgid "Purchase_order_Send"
+msgstr "Send"
+
+#: purchase_order.php:128
+msgid "Purchase_order_archive"
+msgstr "Archive"
+
+#: purchase_order.php:130
+msgid "Purchase_order_Cancel"
+msgstr "Cancel"
+
+#  </purchase_order.php>
+
+
+
+#  <purchase_order_Search.php>
+#: purchase_order_Search.php:93
+msgid "PO_Search_Invoice_Number"
+msgstr "Invoice.No"
+
+#: purchase_order_Search.php:94
+msgid "PO_Search_Date"
+msgstr "Date"
+
+#: purchase_order_Search.php:95
+msgid "PO_Search_Total"
+msgstr "Total"
+
+#: purchase_order_Search.php:96
+msgid "PO_Search_Status"
+msgstr "Purchase order Status"
+
+#: purchase_order_Search.php:97
+msgid "PO_Search_Supplier"
+msgstr "Supplier"
+
+#: purchase_order_Search.php:98
+msgid "PO_Search_User"
+msgstr "User Name"
+
+#: purchase_order_Search.php:124
+msgid "PO_Search_Action"
+msgstr "Action"
+
+#: purchase_order_Search.php:127
+msgid "PO_Search_view_details"
+msgstr "View Details"
+
+#: purchase_order_Search.php:130
+msgid "PO_Search_Received_Order"
+msgstr "Received Order"
+
+#: purchase_order_Search.php:131
+msgid "PO_Search_Send"
+msgstr "Send"
+
+#: purchase_order_Search.php:128
+msgid "PO_Search_archive"
+msgstr "Archive"
+
+#: purchase_order_Search.php:136
+msgid "PO_Search_Cancel"
+msgstr "Cancel"
+
+
+
+#  </purchase_order_Search.php>
+
+#  <purchase_order_add.php>
+#: purchase_order_add.php:21
+msgid "PO_Purchase_orders"
+msgstr "Purchase Orders"
+
+#: purchase_order_add.php:22
+msgid "PO_Add_New_Purchase_Order"
+msgstr "Add New Purchase Order"
+
+#: purchase_order_add.php:83
+msgid "PO_add_successfully_added"
+msgstr "Successfully Added"
+
+#:purchase_order_add.php:85
+msgid "PO_add_something_went_wrong"
+msgstr "Sorry Something went wrong"
+
+
+#: purchase_order.php:102
+msgid "PO_header_Add_New_Purchase_Order"
+msgstr "Add New Purchase order"
+
+#: purchase_order_add.php:110
+msgid "Add_New_PO_Title"
+msgstr "Title"
+
+#: purchase_order_add.php:118
+msgid "Add_New_PO_Inventory"
+msgstr "Target Warehouse"
+
+
+#: purchase_order_add.php:120
+msgid "Add_New_PO_choose_Warehouse"
+msgstr "Choose Warehouse"
+
+#: purchase_order_add.php:138
+msgid "Add_New_PO_Add_supplier"
+msgstr "Add Supplier"
+
+#: purchase_order_add.php:148
+msgid "Add_New_PO_Add_product"
+msgstr "Add Product"
+
+#: purchase_order_add.php:158
+msgid "Add_New_PO_Note"
+msgstr "Note"
+
+#:purchase_order_add.php:164
+msgid "Add_New_PO_Save"
+msgstr "Save"
+
+#: purchase_order_add.php:165
+msgid "Add_New_PO_Cancel"
+msgstr "Cancel"
+
+#: purchase_order_add.php:176
+msgid "Add_New_PO_Supplier_Modal_Title"
+msgstr "Suppliers"
+
+#: purchase_order_add.php:184
+msgid "Add_New_PO_Choose_Supplier"
+msgstr "Choose Please"
+
+#: purchase_order_add.php:194
+msgid "Add_New_PO_Choose_Supplier_Done"
+msgstr "Done"
+
+#: purchase_order_add.php:195
+msgid "Add_New_PO_Choose_Supplier_Cancel"
+msgstr "Cancel"
+
+#: purchase_order_add.php:206
+msgid "Add_New_PO_Products_Modal_Title"
+msgstr "Products"
+
+#: purchase_order_add.php:227
+msgid "Add_New_PO_Choose_Products_Done"
+msgstr "Done"
+
+#: purchase_order_add.php:228
+msgid "Add_New_PO_Choose_Products_Cancel"
+msgstr "Cancel"
+
+
+#  </purchase_order_add.php>
+
+#  <purchase_order_details.php>
+
+#: purchase_order_details.php:28
+msgid "PO_Details_header"
+msgstr "Purchase Orders"
+
+#: purchase_order_details.php:29
+msgid "PO_Details"
+msgstr "Purchase Order Details"
+
+#: purchase_order_details.php:37
+msgid "PO_Details_invoice"
+msgstr "Purchase Order Bill"
+
+#: purchase_order_details.php:44
+msgid "PO_Details_To"
+msgstr "Purchase Order To"
+
+#: purchase_order_details.php:46
+msgid "PO_Details_By"
+msgstr "Order By"
+
+#: purchase_order_details.php:52
+msgid "PO_Details_Date"
+msgstr "Date"
+
+#: purchase_order_details.php:53
+msgid "PO_Details_Number"
+msgstr "Purchase Order Number"
+
+#: purchase_order_details.php:63
+msgid "PO_Details_Product"
+msgstr "Product"
+
+#: purchase_order_details.php:65
+msgid "PO_Details_Quantity"
+msgstr "Quantity"
+
+#: purchase_order_details.php:68
+msgid "PO_Details_Price"
+msgstr "Price"
+
+#: purchase_order_details.php:69
+msgid "PO_Details_Discount"
+msgstr "Discount"
+
+#: purchase_order_details.php:70
+msgid "PO_Details_Tax"
+msgstr "Tax"
+
+#: purchase_order_details.php:71
+msgid "PO_Details_Total"
+msgstr "Total"
+
+#: purchase_order_details.php:133
+msgid "PO_Details_subtotal"
+msgstr "Subtotal"
+
+#: purchase_order_details.php:134
+msgid "PO_Details_Total_Discount"
+msgstr "Discount"
+
+#: purchase_order_details.php:135
+msgid "PO_Details_Total_Tax"
+msgstr "Tax"
+
+#: purchase_order_details.php:143
+msgid "PO_Details_Submit"
+msgstr "Submit"
+
+#: purchase_order_details.php:144
+msgid "PO_Details_Cancel"
+msgstr "Cancel"
+
+#  </purchase_order_details.php>
+
+
+#  <purchase_order_received.php>
+#: purchase_order_received.php:130
+msgid "PO_Received_Order_To"
+msgstr "Purchase Order From"
+
+#: purchase_order_received.php:132
+msgid "PO_Received_Order_By"
+msgstr "Order By"
+
+#: purchase_order_received.php:134
+msgid "PO_Received_Number"
+msgstr "Purchase Order Number"
+
+#: purchase_order_received.php:140
+msgid "PO_Received_Title"
+msgstr "Title"
+
+#: purchase_order_received.php:145
+msgid "PO_Received_warehouse"
+msgstr "Warehouse"
+
+#: purchase_order_received.php:154
+msgid "PO_Received_Created_Date"
+msgstr "Created_Date"
+
+#: purchase_order_received.php:159
+msgid "PO_Received_Delivery_Date"
+msgstr "Delivery Date"
+
+#: purchase_order_received.php:176
+msgid "PO_Received_Price"
+msgstr "Price"
+
+#: purchase_order_received.php:181
+msgid "PO_Received_ordered_Qty"
+msgstr "Ordered Qty"
+
+#: purchase_order_received.php:186
+msgid "PO_Received_Received_Qty"
+msgstr "Received Qty"
+
+#: purchase_order_received.php:191
+msgid "PO_Received_Tax"
+msgstr "Tax"
+
+#: purchase_order_received.php:196
+msgid "PO_Received_Discount"
+msgstr "Discount"
+
+#: purchase_order_received.php:201
+msgid "PO_Received_Total"
+msgstr "Total"
+
+#: purchase_order_received.php:206
+msgid "PO_Received_Expiry_Date"
+msgstr "Expiry_Date"
+
+#: purchase_order_received.php:221
+msgid "PO_Received_Cash"
+msgstr "Cash"
+
+#: purchase_order_received.php:222
+msgid "PO_Received_Account"
+msgstr "On Account"
+
+#: purchase_order_received.php:229
+msgid "PO_Received_subtotal"
+msgstr "Subtotal"
+
+#: purchase_order_received.php:233
+msgid "PO_Received_Total_Discount"
+msgstr "Discount"
+
+#: purchase_order_received.php:237
+msgid "PO_Received_Total_Tax"
+msgstr "Tax"
+
+
+#: purchase_order_received.php:241
+msgid "PO_Received_Whole_Total"
+msgstr "Total"
+
+#: purchase_order_received.php:245
+msgid "PO_Received_Paid"
+msgstr "Paid"
+
+#: purchase_order_received.php:253
+msgid "PO_Received_Note"
+msgstr "Note"
+
+#: purchase_order_received.php:256
+msgid "PO_Received_Done"
+msgstr "Done"
+
+#: purchase_order_received.php:257
+msgid "PO_Received_Cancel"
+msgstr "Cancel"
+
+#  </purchase_order_received.php>
+
+
+#  <expense.php>
+
+#: expense.php:27
+msgid "Page_Title_Expense"
+msgstr "Expense"
+
+#: expense.php:33
+msgid "expense_Search"
+msgstr "Search by Type"
+
+#: expense.php:42
+msgid "expense_Add_New"
+msgstr "Add Expense"
+
+#: expense.php:50
+msgid "expense_Loading"
+msgstr "Loading ..."
+
+#: expense.php:93
+msgid "expense_Date"
+msgstr "Date"
+
+#: expense.php:94
+msgid "expense_Type"
+msgstr "Type"
+
+#: expense.php:95
+msgid "expense_Description"
+msgstr "Description"
+
+#: expense.php:96
+msgid "expense_User"
+msgstr "User"
+
+#: expense.php:97
+msgid "expense_Total"
+msgstr "Total"
+
+#: expense.php:122
+msgid "expense_Action"
+msgstr "Action"
+
+#: expense.php:125
+msgid "expense_Edit"
+msgstr "Edit"
+
+#: expense.php:126
+msgid "expense_Delete"
+msgstr "Delete"
+
+#: expense.php:170
+msgid "expense_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#: expense.php:174
+msgid "expense_alert_cancel"
+msgstr "cancel"
+
+#: expense.php:181
+msgid "expense_alert_delete"
+msgstr "Delete"
+
+#  </expense.php>
+
+#  <expense_search.php>
+
+#: expense_search.php:88
+msgid "expense_Search_Date"
+msgstr "Date"
+
+#: expense_search.php:89
+msgid "expense_Search_Type"
+msgstr "Type"
+
+#: expense_search.php:90
+msgid "expense_Search_Description"
+msgstr "Description"
+
+#: expense_search.php:91
+msgid "expense_Search_User"
+msgstr "User"
+
+#: expense_search.php:92
+msgid "expense_Search_Total"
+msgstr "Total"
+
+#: expense_search.php:116
+msgid "expense_Search_Action"
+msgstr "Action"
+
+#: expense_search.php:120
+msgid "expense_Search_Edit"
+msgstr "Edit"
+
+#: expense_search.php:121
+msgid "expense_Search_Delete"
+msgstr "Delete"
+
+
+#: expense_search.php:142
+msgid "expense_search_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#: expense_search.php:146
+msgid "expense_search_alert_cancel"
+msgstr "cancel"
+
+#: expense_search.php:153
+msgid "expense_search_alert_delete"
+msgstr "Delete"
+#  </expense_search.php>
+
+
+#  <expense_add.php>
+
+#: expense_add.php:21
+msgid "expense_Add_successfully_added"
+msgstr "successfully added"
+
+#:expense_add.php:23
+msgid "expense_Add_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+#: expense_add.php:37
+msgid "expense_Add_header"
+msgstr "Expense"
+
+#: expense_add.php:38
+msgid "expense_Add_New_header"
+msgstr "Add Expense"
+
+#: expense_add.php:45
+msgid "expense_Add_main_header"
+msgstr "Add New Expense"
+
+#: expense_add.php:53
+msgid "expense_Add_Type"
+msgstr "Type"
+
+#: expense_add.php:55
+msgid "expense_Add_Type_choose"
+msgstr "choose..."
+
+#: expense_add.php:56
+msgid "expense_Add_Type_Utilities"
+msgstr "Utilities"
+
+#: expense_add.php:57
+msgid "expense_Add_Type_Telecommunication"
+msgstr "Telecommunication"
+
+#: expense_add.php:58
+msgid "expense_Add_Type_Salaries"
+msgstr "Salaries"
+
+#: expense_add.php:59
+msgid "expense_Add_Type_Rent"
+msgstr "Rent"
+
+#: expense_add.php:60
+msgid "expense_Add_Type_Maintenance"
+msgstr "Maintenance"
+
+#: expense_add.php:71
+msgid "expense_Add_Total"
+msgstr "Total"
+
+#: expense_add.php:81
+msgid "expense_Add_Description"
+msgstr "Description"
+
+#: expense_add.php:87
+msgid "expense_Add_Save"
+msgstr "Save"
+
+
+#: expense_add.php:88
+msgid "expense_Add_Cancel"
+msgstr "Cancel"
+
+
+#  </expense_add.php>
+
+#  <expense_edit.php>
+#: expense_edit.php:14
+msgid "expense_edit_header"
+msgstr "Expense"
+
+#: expense_edit.php:15
+msgid "expense_edit_New_header"
+msgstr "Edit Expense"
+
+#: expense_edit.php:39
+msgid "expense_edit_successfully_added"
+msgstr "successfully added"
+
+#:expense_edit.php:36
+msgid "expense_edit_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+
+#: expense_edit.php:53
+msgid "expense_edit_main_header"
+msgstr "Edit Expense"
+
+#: expense_edit.php:62
+msgid "expense_edit_Type"
+msgstr "Type"
+
+
+#: expense_edit.php:64
+msgid "expense_edit_Type_Utilities"
+msgstr "Utilities"
+
+#: expense_edit.php:65
+msgid "expense_edit_Type_Telecommunication"
+msgstr "Telecommunication"
+
+#: expense_edit.php:66
+msgid "expense_edit_Type_Salaries"
+msgstr "Salaries"
+
+#: expense_edit.php:67
+msgid "expense_edit_Type_Rent"
+msgstr "Rent"
+
+#: expense_edit.php:68
+msgid "expense_edit_Type_Maintenance"
+msgstr "Maintenance"
+
+#: expense_edit.php:79
+msgid "expense_edit_Total"
+msgstr "Total"
+
+#: expense_edit.php:89
+msgid "expense_edit_Description"
+msgstr "Description"
+
+#: expense_edit.php:95
+msgid "expense_edit_update"
+msgstr "update"
+
+
+#: expense_edit.php:96
+msgid "expense_edit_Cancel"
+msgstr "Cancel"
+
+#  </expense_edit.php>
+
+
+
+
+
+#  <Categories.php>
+
+#: Categories.php:96
+msgid "Category_header"
+msgstr "Category"
+
+#: Categories.php:16
+msgid "subCategory_header"
+msgstr "subCategory"
+
+#: Categories.php:41
+msgid "Category_search_input"
+msgstr "Search by Name"
+
+#: Categories.php:52
+msgid "Category_Add_New_category"
+msgstr "Add New category"
+
+#: Categories.php:61
+msgid "Category_loading"
+msgstr "Loading ..."
+
+#: Categories.php:95
+msgid "Category_Name"
+msgstr "Category Name"
+
+#: Categories.php:96
+msgid "Category_Status"
+msgstr " Status"
+
+#: Categories.php:126
+msgid "Category_Action"
+msgstr " Action"
+
+#: Categories.php:129
+msgid "Category_Edit"
+msgstr "Edit"
+
+#: Categories.php:130
+msgid "Category_Delete"
+msgstr " Delete"
+
+#: Categories.php:170
+msgid "subCategory_search_input"
+msgstr "Search by Name"
+
+#: Categories.php:178
+msgid "subCategory_Add_New_category"
+msgstr "Add New Subcategory"
+
+#: Categories.php:184
+msgid "subCategory_loading"
+msgstr "Loading..."
+
+#: Categories.php:213
+msgid "subCategory_Name"
+msgstr "subCategory Name"
+
+#: Categories.php:214
+msgid "subCategory_category_Name"
+msgstr "category Name "
+
+#: Categories.php:215
+msgid "subCategory_Status"
+msgstr " Status"
+
+#: Categories.php:246
+msgid "subCategory_Action"
+msgstr " Action"
+
+#: Categories.php:249
+msgid "subCategory_Edit"
+msgstr " Edit"
+
+#: Categories.php:250
+msgid "subCategory_Delete"
+msgstr " Delete"
+
+#: Categories.php:320
+msgid "category_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#: Categories.php:324
+msgid "category_alert_cancel"
+msgstr "cancel"
+
+#: Categories.php:331
+msgid "category_alert_delete"
+msgstr "Delete"
+
+#: Categories.php:362
+msgid "subCategory_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#: Categories.php:366
+msgid "subCategory_alert_cancel"
+msgstr "cancel"
+
+#: Categories.php:373
+msgid "subCategory_alert_delete"
+msgstr "Delete"
+
+#  </Categories.php>
+
+
+
+#  <Category_search.php>
+
+#: Category_search.php:87
+msgid "Category_Search_Name"
+msgstr "Category Name"
+
+#: Category_search.php:88
+msgid "Category_Search_Status"
+msgstr " Status"
+
+#: Category_search.php:117
+msgid "Category_Search_Action"
+msgstr " Action"
+
+#: Category_search.php:120
+msgid "Category_Search_Edit"
+msgstr "Edit"
+
+#: Category_search.php:121
+msgid "Category_Search_Delete"
+msgstr " Delete"
+
+#: Category_search.php:142
+msgid "Category_Search_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#: Category_search.php:146
+msgid "Category_Search_alert_cancel"
+msgstr "cancel"
+
+#: Category_search.php:153
+msgid "Category_Search_alert_delete"
+msgstr "Delete"
+
+#  </Category_search.php>
+
+
+#  <subcategory_search.php>
+
+#: subcategory_search.php:88
+msgid "subcategory_Search_Name"
+msgstr "subCategory Name"
+
+#: subcategory_search.php:89
+msgid "subcategory_Search_Status"
+msgstr "Category Name"
+
+#: subcategory_search.php:215
+msgid "subCategory_Search_Status"
+msgstr " Status"
+
+#: subcategory_search.php:121
+msgid "subcategory_Search_Action"
+msgstr " Action"
+
+#: subcategory_search.php:124
+msgid "subcategory_Search_Edit"
+msgstr " Edit"
+
+#: subcategory_search.php:125
+msgid "subcategory_Search_Delete"
+msgstr " Delete"
+
+
+#: subcategory_search.php:146
+msgid "subcategory_Search_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#: subcategory_search.php:150
+msgid "subcategory_Search_alert_cancel"
+msgstr "cancel"
+
+#: subcategory_search.php:157
+msgid "subcategory_Search_alert_delete"
+msgstr "Delete"
+
+#  <subcategory_search.php>
+
+
+
+#  <category_add.php>
+
+#: category_add.php:42
+msgid "category_Add_successfully_added"
+msgstr "successfully added"
+
+#:category_add.php:45
+msgid "category_Add_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+#:category_add.php:57
+msgid "subcategory_Add_successfully_added"
+msgstr "successfully added"
+
+#:category_add.php:60
+msgid "subcategory_Add_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+#:category_add.php:70
+msgid "category_Add_header"
+msgstr "Category"
+
+#:category_add.php:71
+msgid "category_Add_New_header"
+msgstr "Add New Category"
+
+#:category_add.php:79
+msgid "category_Add_tab"
+msgstr "Category"
+
+#:category_add.php:82
+msgid "subcategory_Add_tab"
+msgstr "Subcategory"
+
+#: category_add.php:92
+msgid "category_Add_main_header"
+msgstr "Add New Categoty"
+
+#:category_add.php:101
+msgid "category_Add_Name"
+msgstr "Category"
+
+#:category_add.php:111
+msgid "category_Add_Description"
+msgstr "Description"
+
+#:category_add.php:118
+msgid "category_Add_Status"
+msgstr "Status"
+
+#: category_add.php:129
+msgid "category_Add_Save"
+msgstr "Save"
+
+#: category_add.php:130
+msgid "category_Add_Cancel"
+msgstr "Cancel"
+
+#: category_add.php:142
+msgid "subcategory_Add_main_header"
+msgstr "Add New Subcategory"
+
+#:category_add.php:151
+msgid "subcategory_Add_Name"
+msgstr "Subcategory Add Name"
+
+#:category_add.php:158
+msgid "subcategory_Add_Category"
+msgstr "Category"
+
+#:category_add.php:160
+msgid "subcategory_Add_Category_Choose"
+msgstr "Please Choose ..."
+
+#:category_add.php:173
+msgid "subcategory_Add_Description"
+msgstr "Description"
+
+#:category_add.php:181
+msgid "subcategory_Add_Status"
+msgstr "Status"
+
+#: category_add.php:192
+msgid "subcategory_Add_Save"
+msgstr "Save"
+
+#: category_add.php:193
+msgid "subcategory_Add_Cancel"
+msgstr "Cancel"
+
+
+#  </category_add.php>
+
+
+
+#  <category_edit.php>
+#:category_edit.php:16
+msgid "category_edit_New_header"
+msgstr "Category"
+
+#:category_edit.php:17
+msgid "category_edit_header"
+msgstr "Edit"
+
+#:category_edit.php:47
+msgid "category_edit_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+#: category_edit.php:50
+msgid "category_edit_successfully_edited"
+msgstr "successfully Updated"
+
+#:category_edit.php:67
+msgid "category_edit_tab"
+msgstr "Category"
+
+#:category_edit.php:71
+msgid "subcategory_edit_tab"
+msgstr "Subcategory"
+
+#:category_edit.php:83
+msgid "category_edit_main_header"
+msgstr "Edit Category"
+
+#:category_edit.php:91
+msgid "category_edit_Name"
+msgstr "Category Name"
+
+#:category_edit.php:98
+msgid "category_edit_Description"
+msgstr "Description"
+
+#:category_edit.php:105
+msgid "category_edit_Status"
+msgstr "Status"
+
+#:category_edit.php:114
+msgid "category_edit_Save"
+msgstr "Save"
+
+#:category_edit.php:115
+msgid "category_edit_Cancel"
+msgstr "Cancel"
+
+#:category_edit.php:122
+msgid "subcategory_edit_main_header"
+msgstr "Edit Subcategory "
+
+#:category_edit.php:130
+msgid "subcategory_edit_Name"
+msgstr "Subcategory Name"
+
+#:category_edit.php:136
+msgid "subcategory_edit_Category"
+msgstr "Category"
+
+#:category_edit.php:138
+msgid "subcategory_edit_Category_Choose"
+msgstr "Please Choose ..."
+
+#:category_edit.php:156
+msgid "subcategory_edit_Description"
+msgstr "Description"
+
+#:category_edit.php:163
+msgid "subcategory_edit_Status"
+msgstr "Status"
+
+#: category_edit.php:172
+msgid "subcategory_edit_Save"
+msgstr "Save"
+
+#: category_edit.php:173
+msgid "subcategory_edit_Cancel"
+msgstr "Cancel"
+
+#  </category_edit.php>
+
+
+
+#  <products.php>
+#: products.php:23
+msgid "Page_Title_Products"
+msgstr "Products"
+
+#: products.php:27
+msgid "product_search_input"
+msgstr "Search by Product"
+
+#: products.php:43
+msgid "product_Add_New_product"
+msgstr "Add New Product"
+
+#: products.php:50
+msgid "product_loading"
+msgstr "Loading"
+
+#: products.php:76
+msgid "product_Name"
+msgstr "Product"
+
+#: products.php:77
+msgid "product_price"
+msgstr "Price"
+
+#: products.php:78
+msgid "product_stock"
+msgstr "Stock"
+
+#: products.php:97
+msgid "product_Action"
+msgstr "Action"
+
+#: products.php:100
+msgid "product_view"
+msgstr " View Details"
+
+#: products.php:101
+msgid "product_edit"
+msgstr " Edit"
+
+#: products.php:102
+msgid "product_update_price"
+msgstr " Update Price"
+
+#: products.php:103
+msgid "product_delete"
+msgstr " Delete"
+
+#:product_search.php:141
+msgid "product_delete_alert_message"
+msgstr " Are you sure you want to Delete?"
+
+#:product_search.php:145
+msgid "product_alert_cancel"
+msgstr " Cancel"
+
+#:product_search.php:152
+msgid "product_alert_delete"
+msgstr "Delete"
+
+#  </products.php>
+
+
+
+#  <product_search.php>
+
+#:product_search.php:45
+msgid "product_search_Name"
+msgstr "Product"
+
+#:product_search.php:46
+msgid "product_search_price"
+msgstr " Price"
+
+#: product_search.php:47
+msgid "product_search_stock"
+msgstr " Stock"
+
+#: product_search.php:65
+msgid "product_search_Action"
+msgstr " Action"
+
+#:product_search.php:68
+msgid "product_search_view"
+msgstr " View Details"
+
+#:product_search.php:69
+msgid "product_search_edit"
+msgstr " Edit"
+
+#: product_search.php:70
+msgid "product_search_update_price"
+msgstr " Update Price"
+
+#:product_search.php:70
+msgid "product_search_delete"
+msgstr " Delete"
+
+#:product_search.php:105
+msgid "product_search_delete_alert_message"
+msgstr " Are you sure you want to Delete?"
+
+#:product_search.php:109
+msgid "product_search_alert_cancel"
+msgstr "Cancel"
+
+#:product_search.php:116
+msgid "product_search_alert_delete"
+msgstr "Delete"
+
+#  </product_search.php>
+
+#  < product_add.php>
+
+#:  product_add.php:83
+msgid " product_Add_successfully_added"
+msgstr "successfully added"
+
+#: product_add.php:85
+msgid " product_Add_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+#: product_add.php:99
+msgid "product_Add_header"
+msgstr "Products"
+
+#: product_add.php:100
+msgid "product_Add_New_header"
+msgstr "Add New Product"
+
+#: product_add.php:104
+msgid "product_Add_main_header"
+msgstr "Add New Product"
+
+#: product_add.php:113
+msgid "product_Add_Name"
+msgstr "Product Name"
+
+#: product_add.php:122
+msgid "product_Add_code"
+msgstr "Product Code"
+
+#: product_add.php:129
+msgid "product_Add_category"
+msgstr "Category"
+
+#: product_add.php:131
+msgid "product_Add_choose"
+msgstr " Choose"
+
+#: product_add.php:149
+msgid "product_Add_subcategory"
+msgstr "Subcategory"
+
+#: product_add.php:151
+msgid "product_Add_subcategory_choose"
+msgstr "Choose"
+
+#:  product_add.php:168
+msgid "product_Add_unit"
+msgstr "Unit of counting"
+
+#: product_add.php:170
+msgid "product_Add_unit_choose"
+msgstr "Choose"
+
+#: product_add:187
+msgid "product_Add_weight_type"
+msgstr "Weight type"
+
+#: product_add.php:206
+msgid "product_Add_pieces_box"
+msgstr "Pieces Per box"
+
+#: product_add.php:215
+msgid "product_Add_price"
+msgstr "Price"
+
+#: product_add.php:222
+msgid "product_Add_length"
+msgstr "Length"
+
+#: product_add.php:229
+msgid "product_Add_width"
+msgstr "Width"
+
+#: product_add.php:237
+msgid "product_Add_height"
+msgstr "Height"
+
+#: product_add.php:244
+msgid "product_Add_tax"
+msgstr "Tax"
+
+#: product_add.php:246
+msgid "product_Add_tax_choose"
+msgstr "Choose"
+
+#: product_add.php:264
+msgid "product_Add_status"
+msgstr "Status"
+
+#: product_add.php:266
+msgid "product_Add_active"
+msgstr "Active"
+
+#: product_add.php:267
+msgid "product_Add_Inactive"
+msgstr "Inactive"
+
+#: product_add.php:275
+msgid "product_Add_description"
+msgstr "Description"
+
+#:  product_add.php:298
+msgid "product_Add_save"
+msgstr "Save"
+
+#: product_add.php:299
+msgid "product_Add_cancel"
+msgstr "Cancel"
+
+
+#  </ product_add.php>
+
+#  < product_edit.php>
+
+#: product_edit.php:33
+msgid "product_edit_header"
+msgstr "Products"
+
+#: product_edit.php:34
+msgid "product_edit_New_header"
+msgstr "Edit Product "
+
+#: product_edit.php:87
+msgid " product_edit_successfully_edited"
+msgstr "Successfully Updated"
+
+#:product_edit.php:89
+msgid "product_edit_something_went_wrong"
+msgstr "Sorry ,something went wrong"
+
+#:product_edit.php:99
+msgid "product_edit_main_header"
+msgstr "Edit Product"
+
+#: product_edit.php:109
+msgid "product_edit_Name"
+msgstr "Product Name"
+
+#:product_edit.php:117
+msgid "product_edit_code"
+msgstr "Product Code"
+
+#:product_edit.php:125
+msgid "product_edit_category"
+msgstr "Category"
+
+#: product_edit.php:143
+msgid "product_edit_subcategory"
+msgstr "Subcategory"
+
+#:product_edit.php:162
+msgid "product_edit_unit"
+msgstr "Unit of counting"
+
+#:product_edit.php:179
+msgid "product_edit_weight_type"
+msgstr "Weight type"
+
+#: product_edit.php:197
+msgid "product_edit_pieces_box"
+msgstr "Pieces Per box"
+
+#:product_edit.php:205
+msgid "product_edit_price"
+msgstr "Price"
+
+#:product_edit.php:213
+msgid "product_edit_length"
+msgstr "Length"
+
+#:product_edit.php:220
+msgid "product_edit_width"
+msgstr "Width"
+
+#:product_edit.php:228
+msgid "product_edit_height"
+msgstr "Height"
+
+#:product_edit.php:235
+msgid "product_edit_tax"
+msgstr "Tax"
+
+#:product_edit.php:255
+msgid "product_edit_status"
+msgstr "Status"
+
+#:product_edit.php:257
+msgid "product_edit_active"
+msgstr "Active"
+
+#: product_edit.php:258
+msgid "product_edit_Inactive"
+msgstr "Inactive"
+
+#: product_edit.php:266
+msgid "product_edit_description"
+msgstr "Description"
+
+#: product_edit.php:286
+msgid "product_edit_save"
+msgstr "Save"
+
+#: product_edit.php:287
+msgid "product_edit_cancel"
+msgstr "Cancel"
+
+
+#  </ product_edit.php>
+
+# <product_details.php>
+
+#:product_details.php:26
+msgid "product_details_header"
+msgstr "Products "
+
+#:product_details.php:27
+msgid "product_details_New_header"
+msgstr "Product Details "
+
+#:product_details.php:42
+msgid "product_details_Name"
+msgstr "Product "
+
+#:product_details.php:43
+msgid "product_details_code"
+msgstr "Product Code "
+
+#:product_details.php:44
+msgid "product_details_category"
+msgstr " Category "
+
+#:product_details.php:45
+msgid "product_details_subcategory"
+msgstr "Subcategory"
+
+#:product_details.php:46
+msgid "product_details_price"
+msgstr "Price"
+
+#:product_details.php:53
+msgid "product_details_length"
+msgstr "Length"
+
+#:product_details.php:59
+msgid "product_details_width"
+msgstr "Width"
+
+#:product_details.php:56
+msgid "product_details_height"
+msgstr "Height"
+
+#:product_details.php:61
+msgid "product_details_tax"
+msgstr "Tax"
+
+#:product_details.php:62
+msgid "product_details_status"
+msgstr "Status"
+
+#:product_details.php:84
+msgid "product_details_status_Active"
+msgstr "Active"
+
+#:product_details.php:84
+msgid "product_details_status_InActive"
+msgstr "InActive"
+
+#:product_details.php:69
+msgid "product_details_purchase"
+msgstr "Purchase History"
+
+#:product_details.php:72
+msgid "product_details_sales"
+msgstr "Sales History"
+
+#:product_details.php:82
+msgid "product_details_purchase_date"
+msgstr "Date"
+
+#:product_details.php:83
+msgid "product_details_purchase_supplier"
+msgstr "Supplier"
+
+#:product_details.php:84
+msgid "product_details_purchase_quantity"
+msgstr "Quantity"
+
+#:product_details.php:129
+msgid "product_details_sales_date"
+msgstr "Date"
+
+#:product_details.php:130
+msgid "product_details_sales_customer"
+msgstr "Customer"
+
+#:product_details.php:131
+msgid "product_details_sales_quantity"
+msgstr "Quantity"
+
+
+
+# </ product_details.php>
+
+
+
+# <product_update.php>
+
+#:product_update.php:22
+msgid "product_update_price_input"
+msgstr "Update Price"
+
+#:product_update.php:27
+msgid "product_update_update_btn"
+msgstr "Update"
+
+#:product_update.php:28
+msgid "product_update_close_btn"
+msgstr "Close"
+
+# </ product_update.php>
+
+
+# <product_settings.php>
+
+#:product_settings.php:67
+msgid "product_settings_tax"
+msgstr "Tax"
+
+#:product_settings.php:88
+msgid "product_settings_tax_Action"
+msgstr "Action"
+
+#:product_settings.php:91
+msgid "product_settings_tax_edit"
+msgstr "Edit"
+
+#:product_settings.php:92
+msgid "product_settings_tax_delete"
+msgstr "Delete"
+
+#:product_settings.php:108
+msgid "product_settings_discount"
+msgstr "Discount"
+
+#:product_settings.php:129
+msgid "product_settings_discount_Action"
+msgstr "Action"
+
+#:product_settings.php:132
+msgid "product_settings_discount_edit"
+msgstr "Edit"
+
+#:product_settings.php:133
+msgid "product_settings_discount_delete"
+msgstr "Delete"
+
+#:product_settings.php:153
+msgid "product_settings_tax_add"
+msgstr "Add Tax"
+
+#:product_settings.php:166
+msgid "product_settings_tax_add_input"
+msgstr "Tax value"
+
+#:product_settings.php:173
+msgid "product_settings_tax_add_description"
+msgstr "Description"
+
+#:product_settings.php:181
+msgid "product_settings_tax_save"
+msgstr "Save"
+
+#:product_settings.php:182
+msgid "product_settings_tax_cancel"
+msgstr "Cancel"
+
+#:product_settings.php:194
+msgid "product_settings_discount_add"
+msgstr "Add Discount"
+
+#:product_settings.php:207
+msgid "product_settings_discount_add_input"
+msgstr "Discount Value"
+
+#:product_settings.php:214
+msgid "product_settings_discount_add_description"
+msgstr "Description"
+
+#:product_settings.php:222
+msgid "product_settings_discount_save"
+msgstr "Save"
+
+#:product_settings.php:223
+msgid "product_settings_discount_cancel"
+msgstr "Cancel"
+
+#:product_settings.php:241
+msgid "product_settings_delete_alert_message"
+msgstr "Are you sure you want to Delete?"
+
+#:product_settings.php:245
+msgid "product_settings_alert_cancel"
+msgstr "Cancel"
+
+#:product_settings.php:252
+msgid "product_settings_alert_delete"
+msgstr "Delete"
+
+# </ product_settings.php>
+
+
+# <header.php>
+
+#:header.php:108
+msgid "Docs_header_menu_Home"
+msgstr "Docs"
+
+#:header.php:110
+msgid "Docs_header_menu_FAQ"
+msgstr "FAQ"
+
+#:header.php:112
+msgid "Docs_header_menu_Manual"
+msgstr "User Manual"
+
+# </header.php>
+
+# <index.php>
+
+#:index.php:13
+msgid "Docs_index_menu_FAQ"
+msgstr "FAQ"
+
+#:index.php:22
+msgid "Docs_index_menu_User_Manual"
+msgstr "User Manual"
+
+# </index.php>
